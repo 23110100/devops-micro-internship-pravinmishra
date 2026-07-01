@@ -33,9 +33,9 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
 
 ---
+I believe success comes primarily through hard work, continuous learning, discipline, and persistence. Whether in my career, finances, relationships, health, or the tech industry, I strive to improve and achieve meaningful goals. While many people believe success happens naturally over time, I believe it must be intentionally earned through consistent effort.
 
 # Assignment 2. What are the top 3 objective truths you discovered through experimentation and results?
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Nutitional needs
 
 ### Evidence from my life
 
-Add your answer here...
+At 19, I chose to take responsibility for my daily nutritional and financial needs while in university. I arranged meals through a local restaurant and managed my own transportation costs, some of my friends weren't happy thinking I was stingy. This structure helped me stay organized and focused more effectively on my studies and academic priorities.
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Early work years as a proffessional.
 
 ### Evidence from my life
 
-Add your answer here...
+While working as a Completions Engineer on the EGTL Project, I discovered the value of daily exercise. I developed a habit of walking around the plant for 45–60 minutes every now and then in the evenings. This routine improved my focus, mental clarity, and productivity during demanding 6am–6pm work shifts.
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Developing and taking responsibilities
 
 ### Evidence from my life
 
-Add your answer here...
+I have over the years take responsibilities for others, be it providing for immediate and extended families finacially, morally, leading initiatives at work place etc.
 
 ---
 
@@ -135,13 +135,25 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+**DevOps Engineer Who Built a Reputation in Cloud Infrastructure and Reliability (2029 Feature Story)**
+
+In the last 3–7 years, Osamudiamen Agharese emerged as a skilled DevOps and Cloud Infrastructure professional known for delivering reliable, scalable, and automated systems across enterprise environments in Canada’s energy and technology sectors. After beginning his transition from traditional engineering roles, he successfully repositioned his career toward cloud engineering, infrastructure automation, and site reliability practices.
+
+He built a strong foundation by earning industry-recognized certifications in AWS and Azure, while strengthening his hands-on expertise in CI/CD pipelines, Kubernetes orchestration, Terraform infrastructure-as-code, and Jenkins automation workflows. His technical growth was supported by consistent lab work, real-world deployments, and contributions to internal engineering projects that improved system uptime and deployment efficiency.
+
+Osamudiamen led multiple automation initiatives where he reduced deployment time through standardized CI/CD pipelines and containerized application delivery. He contributed to the design and implementation of scalable cloud infrastructure solutions that improved system reliability and reduced operational bottlenecks. His work consistently aligned with DevOps best practices, including version control workflows, infrastructure monitoring, and automated testing integration.
+
+He also built a personal GitHub portfolio showcasing cloud infrastructure projects, including Terraform-based AWS deployments, Kubernetes cluster setups, and end-to-end CI/CD pipelines. His technical blog posts documented real-world engineering challenges, troubleshooting methods, and automation solutions, which gained attention within DevOps learning communities.
+
+Beyond technical execution, he contributed to team leadership by mentoring junior engineers and collaborating with cross-functional teams across infrastructure, security, and development units. His ability to bridge communication between technical and non-technical stakeholders became a key strength in large-scale project delivery.
+
+By 2029, Osamudiamen had not only transitioned into a DevOps-focused engineering role but had also established himself as a reliable contributor in cloud transformation projects, helping organizations modernize legacy systems and adopt scalable cloud-native architectures.
 
 ### Public Link
 
 Paste your link here:
 
-`__________________________`
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community ( https://discord.pravinmishra.com/ ).
 
 ---
 
@@ -165,7 +177,7 @@ This is about self-awareness, not judgment.
 
 ### Answer Format
 
-**Yes / No**
+**Yes **
 
 If Yes:
 
@@ -173,7 +185,8 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+Earlier in my DevOps journey, I focused heavily on theory but neglected hands-on practice and real-world projects. Although I secured a Snr DevOps role as a consultatnt, I eventually lost the job because I lacked practical experience, confidence and a constant feeling if I can do this. The experience was stressful and humbling, but it became a turning point in my career. It taught me that real success in DevOps comes from consistent hands-on learning, building projects, and continuously improving practical skills alongside theoretical knowledge. This what I think DMI will bridge this cap.
+
 
 ---
 
@@ -199,16 +212,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. The Civilizations of Africa: A History to 1800 — Christopher Ehret
+2. Deep Work — Cal Newport
+3. The Pragmatic Programmer — Andrew Hunt & David Thomas
+4. Clean Code — Robert C. Martin
+5. The DevOps Handbook — Gene Kim, Jez Humble, Patrick Debois, John Willis
+6. Thinking, Fast and Slow — Daniel Kahneman
+7. The 7 Habits of Highly Effective People* — Stephen R. Covey
+8. Ancient Africa: A Global History, to 300 CE — Christopher Ehret
+9. Start With Why — Simon Sinek
+10.The African Origin of Civilization: Myth or Reality — Cheikh Anta Diop
 
 ---
 
@@ -237,16 +250,19 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Learning hours per week (DevOps / cloud / engineering skills) - 14-20 hrs weekly
+* Hands-on project output (GitHub commits, labs completed, deployments built)
+* Certifications progress (AWS, Azure, Kubernetes, Terraform) in next 12 months
+* Deep work / focus sessions per day or week
+* Time spent on distraction-free learning vs idle time
+* Physical health and energy levels (exercise, walking, workouts)
+* Sleep quality and recovery hours
+* Personal finance tracking (income, expenses, savings rate)
+* Budget adherence and spending discipline
+* Career applications submitted and interviews secured
+* Portfolio growth (projects shipped, documented, published)
+* Networking activity (LinkedIn engagement, connections, mentorship)
+
 
 ---
 
@@ -268,11 +284,12 @@ Examples:
 
 ### Did You Do It?
 
-**Yes / No**
+**Yes **
 
 Answer:
 
-Add your answer here...
+My plan is to take a structured approach to managing my life across key areas. I will stay on top of my finances by tracking mortgage payments, utilities payments, car maintenance and gas, savings, debt payments. In my career, I will focus on DevOps learning via DMI, improving my resume, applying for jobs, preparing for interviews, earning certifications, and building portfolio projects. I will prioritize continuous learning through hands-on labs, coding practice, Linux and cloud skills, and technical reading. I will maintain communication with family, friends, and professional networks like LinkedIn. I will also address personal challenges such as career uncertainty and financial stability while building confidence in my technical skills. In my personal life, I will improve my daily routine, health, sleep, exercise, and nutrition. Finally, I will actively develop and refine DevOps project ideas, portfolio improvements, and blogging or career development strategies.
+
 
 ---
 
@@ -290,7 +307,11 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+This is my 5-month DevOps growth plan aligned with DMI training goals. 
+Month 1 focuses on building a daily hands-on learning habit, completing DMI tasks, starting a GitHub project, updating resume/LinkedIn, and beginning AWS/Azure fundamentals. 
+Month 2 emphasizes skill-building through Docker, Kubernetes basics, Linux, scripting, and mini projects while documenting progress on GitHub. 
+Month 3 focuses on cloud deployment, Terraform, CI/CD pipelines, and mock interviews. Month 4 prepares for employment through consistent job applications, system design basics, and an end-to-end cloud project. 
+Month 5 is execution-focused, improving interview performance, strengthening weak areas, networking on LinkedIn, and refining portfolio and GitHub for job success.
 
 ---
 
@@ -298,11 +319,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Few hours daily depending on my scheduled shift at work
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+5 - 7 sessions
 
 ---
 
@@ -316,7 +337,7 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+I have already set aside an office space at home, though I am disciplined when it comes to phone use, advantage I have is that the sat DMI time is midnight for me when there is little or no social media activities.
 
 ---
 
@@ -324,15 +345,15 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+Structured learning. Getting my assignment done step by step.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+Some blockers like which I am rewatching videos so I can learn e.g taking screenshorts, writing linkedin post & blogs
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+What I am already implementing is the habit of doing work daily, rewatching videos and trying to solve issues earlyon
 
 ### LinkedIn Post
 
