@@ -20,19 +20,33 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 #### Question 1 — What is an AWS account, and why do you need it at this stage?
 
-Write your answer here.
+An AWS account is the personal gateway to Amazon Web Services (AWS), giving access to a wide range of cloud services through a single login and billing account. With it, you can create and manage resources such as EC2 virtual machines, S3 storage buckets, Amazon EKS clusters, databases, networking components, CloudWatch monitoring, and AWS Lambda functions, while AWS tracks resource usage and associated costs.
+
+At this stage, an AWS account is essential because it provides hands-on experience with real cloud infrastructure. While tutorials and documentation help build theoretical knowledge, working directly in AWS develops the practical skills required in a real DevOps environment. The AWS Free Tier makes it possible to practice by deploying websites, launching virtual machines, configuring databases, and implementing security settings with little or no cost.
 
 ---
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
-Write your answer here.
+
+The AWS Free Tier allows users to learn, explore, and build on AWS with little or no cost, provided they stay within the free usage limits. It is ideal for students, beginners, developers, and startups who want hands-on experience with real cloud services.
+
+For AWS accounts created after **July 15, 2025**, users receive up to **$200 in AWS credits**—$100 at sign-up and up to an additional $100 by completing guided activities. These credits are valid for up to six months or until they are fully used. If the credits expire or are exhausted, the account closes automatically unless it is upgraded to a paid plan within a 90-day grace period. Users also have access to AWS **Always Free** services, which remain free indefinitely as long as usage stays within the monthly limits.
+
+For accounts created **before July 15, 2025**, AWS offered the **Legacy Free Tier**, which included 12 months of free access to eligible services such as EC2, S3, RDS, and CloudFront. These accounts also continue to benefit from the Always Free services.
 
 ---
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Write your answer here.
+Amazon S3 is a cloud storage service used to store files such as images, backups, and static websites. Under the legacy AWS Free Tier, users receive 5 GB of storage along with a limited number of free monthly requests, making it a great option for learning and small projects.
+
+Amazon EC2 provides virtual servers in the cloud, allowing users to run applications without owning physical hardware. The legacy Free Tier includes up to 750 hours per month of a small EC2 instance, which is enough to run one server continuously for a month.
+
+Amazon DynamoDB is a fully managed NoSQL database service designed for fast and scalable applications. Unlike EC2 and S3, its **Always Free** tier is available to all AWS accounts and includes 25 GB of storage and enough capacity to support millions of requests each month.
+
+It's important to note that the free limits for EC2 and S3 apply only to AWS accounts created before **July 15, 2025**. Accounts created after that date use AWS's newer **$200 credit-based Free Plan**, where credits can be used across eligible services for up to six months. DynamoDB's Always Free tier remains available to all users, regardless of when their AWS account was created.
+
 
 ---
 
@@ -56,7 +70,7 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 #### Screenshot 1 — AWS Account page showing account name (email may be blurred)
 
-Add your screenshot here.
+![alt text](<Week 03_Assignment 01_Screenshot 1.png>)
 
 ---
 
