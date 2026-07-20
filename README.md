@@ -76,8 +76,8 @@ Week 01 → Success Mindset
  Week 02 → Agentic AI with Claude Code 
 [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) 
 
-<!-- Week 03 → Linux for DevOps -->
-<!-- [![Week 03 – Linux](./badges/week-03.svg)](./week-03-linux-for-devops/) -->
+ Week 03 → Linux for DevOps 
+[![Week 03 – Linux](./badges/week-03.svg)](./week-03-linux-for-devops/) 
 
 <!-- Week 04 → Bash Scripting -->
 <!-- [![Week 04 – Bash](./badges/week-04.svg)](./week-04-bash-scripting/) -->
@@ -135,7 +135,7 @@ Week 01 → Success Mindset
 | 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
 | 01 | Success Mindset | ✅ Completed | ✅ Completed |https://www.linkedin.com/posts/share-7478196686788448256-GsUm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpVsJUBYBjWiWLSBz1ZojH27wf_yizZYUA| https://www.linkedin.com/pulse/mindset-over-everything-devops-ossa-agharese-bnzmc|
 | 02 | Agentic AI with Claude Code | ✅ Completed  | ✅ Completed  |https://www.linkedin.com/posts/ossa-agharese-01991a233_join-the-dmi-devops-micro-internship-share-7481548282167754752-6FT8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpVsJUBYBjWiWLSBz1ZojH27wf_yizZYUA| https://www.linkedin.com/posts/ossa-agharese-01991a233_activity-7481546540067487744-6g56?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpVsJUBYBjWiWLSBz1ZojH27wf_yizZYUA|
-| 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
+| 03 | Linux for DevOps | ✅ Completed  | ✅ Completed  |https://www.linkedin.com/posts/ossa-agharese-01991a233_devops-cloudcomputing-nginx-share-7484737822260654080-xs8S/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpVsJUBYBjWiWLSBz1ZojH27wf_yizZYUA | — |
 | 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
