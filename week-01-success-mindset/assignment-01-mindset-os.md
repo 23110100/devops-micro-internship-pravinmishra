@@ -315,7 +315,6 @@ Example:
 
 #### My Weekly Routine
 
-#### My Weekly Routine
 
 - Mon–Thu: 60–90 minutes of deep work on DevOps learning, assignments, and cloud projects
 - Friday: Review completed tasks, organize notes, and plan priorities for the next week
@@ -328,7 +327,7 @@ Example:
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+3-5 hrs daily
 
 #### How Many Sessions Per Week?
 
@@ -365,13 +364,9 @@ I realized that I can make consistent progress when I create structure, protect 
 
 ### My biggest weakness/loop I noticed
 
-### My biggest weakness/loop I noticed
 
 I noticed that my biggest weakness is sometimes trying to learn too many things at once instead of focusing on completing one priority at a time. This can create information overload and slow down my progress. I need to focus more on consistency, execution, and finishing what I start.
 
-### One system I will implement from this week (exact habit + time)
-
-I will spend 60 minutes every weekday from 8:00 PM to 9:00 PM on focused learning or project work. I will also review my progress every Sunday to track completed tasks, challenges, and next steps.
 
 ### One system I will implement from this week (exact habit + time)
 
@@ -380,8 +375,11 @@ I will spend 60 minutes every weekday from 8:00 PM to 9:00 PM on focused learnin
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
+https://www.linkedin.com/posts/share-7478196686788448256-GsUm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpVsJUBYBjWiWLSBz1ZojH27wf_yizZYUA
 
 `Add your URL here`
+
+https://www.linkedin.com/feed/update/urn:li:activity:7478196687484702720/
 
 ---
 
