@@ -375,20 +375,15 @@ I will spend 60 minutes every weekday from 8:00 PM to 9:00 PM on focused learnin
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
-https://www.linkedin.com/posts/share-7478196686788448256-GsUm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpVsJUBYBjWiWLSBz1ZojH27wf_yizZYUA
 
-`Add your URL here`
-
-https://www.linkedin.com/feed/update/urn:li:activity:7478196687484702720/
+`https://www.linkedin.com/posts/share-7478196686788448256-GsUm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpVsJUBYBjWiWLSBz1ZojH27wf_yizZYUA`
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **[ADD LINK HERE](https://www.linkedin.com/feed/update/urn:li:activity:7478196687484702720/)**  
-- Blog / Medium : **[ADD LINK HERE](https://medium.com/@sammyagharese1/my-2-0-version-a-story-of-growth-and-impact-b3cef647222a?postPublishedType=repub)**  
-
----
+- LinkedIn Post URL: (https://www.linkedin.com/feed/update/urn:li:activity:7478196687484702720/)
+- Blog / Medium :(https://medium.com/@sammyagharese1/my-2-0-version-a-story-of-growth-and-impact-b3cef647222a?postPublishedType=repub)
 
 ## 📌 About DMI & CloudAdvisory
 
