@@ -84,8 +84,8 @@ Week 01 → Success Mindset
 <!-- [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) -->
 >>>>>>> upstream/main
 
-<!-- Week 04 → Git & GitHub -->
-<!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-github/) -->
+ Week 04 → Git & GitHub 
+[![Week 04 – Git](./badges/week-04.svg)](./week-04-github/)
 
 <!-- Week 05 → DevOps Lifecycle & Agile -->
 <!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
@@ -140,7 +140,7 @@ Week 01 → Success Mindset
 | 02 | Agentic AI with Claude Code | ✅ Completed  | ✅ Completed  |https://www.linkedin.com/posts/ossa-agharese-01991a233_join-the-dmi-devops-micro-internship-share-7481548282167754752-6FT8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpVsJUBYBjWiWLSBz1ZojH27wf_yizZYUA| https://www.linkedin.com/posts/ossa-agharese-01991a233_activity-7481546540067487744-6g56?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpVsJUBYBjWiWLSBz1ZojH27wf_yizZYUA|
 | 03 | Linux for DevOps | ✅ Completed  | ✅ Completed  |https://www.linkedin.com/posts/ossa-agharese-01991a233_devops-cloudcomputing-nginx-share-7484737822260654080-xs8S/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpVsJUBYBjWiWLSBz1ZojH27wf_yizZYUA | — |
 | 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |
-| 05 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
+| 05 | Git & GitHub | ✅ Completed | ✅ Completed  |(https://www.linkedin.com/posts/ossa-agharese-01991a233_dmi-devops-micro-internship-with-agentic-share-7485924171345170433-3Mgh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpVsJUBYBjWiWLSBz1ZojH27wf_yizZYUA)| https://medium.com/@sammyagharese1/my-2-0-version-a-story-of-growth-and-impact-b3cef647222a?postPublishedType=repub |
 | 06 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
