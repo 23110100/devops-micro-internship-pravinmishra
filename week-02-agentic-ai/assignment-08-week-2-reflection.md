@@ -46,7 +46,7 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![alt text](<Reflection Week 2.png>)
 
 ---
 
@@ -54,7 +54,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`Add your URL here`
+`https://medium.com/@sammyagharese1/reflection-week-2-134af0308523?postPublishedType=initial`
 
 ---
 
@@ -92,7 +92,7 @@ Your post must include:
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+(https://www.linkedin.com/posts/ossa-agharese-01991a233_join-the-dmi-devops-micro-internship-share-7481548282167754752-6FT8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpVsJUBYBjWiWLSBz1ZojH27wf_yizZYUA)
 
 ---
 
@@ -101,14 +101,33 @@ Add your screenshot here.
 LinkedIn Post Content (copy-paste here):
 
 ```
-Paste your LinkedIn post content here
+Completed Week 2 of my DevOps Micro Internship journey with Agentic AI.
+
+This week I explored how Claude Code can be customized for DevOps workflows using:
+
+✅ CLAUDE.md project instructions
+✅ Skills and reusable workflows
+✅ Subagents for specialized tasks
+✅ MCP integrations
+✅ Hooks and permissions for safety
+✅ Memory for consistent AI collaboration
+
+One of my biggest takeaways is that Agentic AI is not just about asking questions — it is about creating structured, controlled, and repeatable engineering workflows.
+
+I also learned that troubleshooting is part of engineering. Understanding errors, checking assumptions, and documenting solutions are skills every DevOps engineer needs.
+
+Excited to continue building, learning, and sharing my journey.
+
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community ( https://lnkd.in/gfK7TFug ).
+
+#AgenticAI #ClaudeCode #DevOps #ReLearningInPublic
 ```
 
 ---
 
 ### LinkedIn Post Link:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/ossa-agharese-01991a233_join-the-dmi-devops-micro-internship-share-7481548282167754752-6FT8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpVsJUBYBjWiWLSBz1ZojH27wf_yizZYUA`
 
 ---
 
