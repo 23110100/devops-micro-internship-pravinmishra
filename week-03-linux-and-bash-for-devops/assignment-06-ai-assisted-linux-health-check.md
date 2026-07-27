@@ -115,8 +115,6 @@ The Gather phase is when Claude collects and reviews the available information, 
 
 Yes. Claude only analyzed the project and provided recommendations without creating or modifying any files. I verified this by checking that no new files appeared in the project and that git status showed no unexpected file changes.
 
-Add your answer here.
-
 ---
 
 **3. Why is planning before coding useful in DevOps automation?**
@@ -221,9 +219,7 @@ The overall status of the healthy baseline is HEALTHY because the server, Nginx 
 
 ---
 
-The evidence is the successful HTTP response from the server using a command such as curl -I http://<server-ip>, which returned HTTP/1.1 200 OK. This confirms that Nginx is running and the application is responding to web requests.
-
-Add your answer here.
+The evidence is the successful HTTP response from the server using a command such as curl -I http://<server-ip>, which returned HTTP/1.1 200 OK. This confirms that Nginx is running and the application is responding to web requests..
 
 ---
 
@@ -480,8 +476,6 @@ Verify: The system was checked again to confirm Nginx and the application had re
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
-
 `https://www.linkedin.com/posts/ossa-agharese-01991a233_devops-agenticai-bashscripting-share-7484753107260997632-Va2E/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpVsJUBYBjWiWLSBz1ZojH27wf_yizZYUA`
 
 ---
@@ -493,8 +487,6 @@ Paste your LinkedIn post URL here:
 ---
 
 # GitHub Repository URL
-
-Paste the URL of your GitHub folder or repository containing the assignment files here:
 
 `https://github.com/23110100/devops-micro-internship-pravinmishra.git`
 
@@ -512,20 +504,20 @@ Paste the URL of your GitHub folder or repository containing the assignment file
 
 # Completion Checklist
 
-- [ ] Task 1: Healthy baseline confirmed, workspace created (Screenshots 1–2, Notes answered)
-- [ ] Task 2: CLAUDE.md created with all four sections (Screenshot 3, Notes answered)
-- [ ] Task 3: Five-check plan produced by Claude using read-only tools (Screenshot 4, Notes answered)
-- [ ] Task 4: `linux-triage.sh` created, syntax validated, executable permission set (Screenshots 5–8, Notes answered)
-- [ ] Task 5: Healthy-state report generated with no FAIL result (Screenshots 9–10, Notes answered)
-- [ ] Task 6: `/linux-triage` skill created and run successfully on healthy server (Screenshots 11–12, Notes answered)
-- [ ] Task 7: Nginx incident simulated, failed evidence captured, Claude did not execute recovery (Screenshots 13–15, Notes answered)
-- [ ] Task 8: Nginx recovered manually, recovery verified, reports saved, incident summary complete (Screenshots 16–19, Notes answered)
-- [ ] Incident summary contains all seven required sections
-- [ ] LinkedIn post published and URL submitted
-- [ ] Full Name visible in all required screenshots and the Bash report
-- [ ] Skill does not have Write permission
-- [ ] Skill did not execute any recovery commands
-- [ ] No sensitive data exposed
+- [x] Task 1: Healthy baseline confirmed, workspace created (Screenshots 1–2, Notes answered)
+- [x] Task 2: CLAUDE.md created with all four sections (Screenshot 3, Notes answered)
+- [x] Task 3: Five-check plan produced by Claude using read-only tools (Screenshot 4, Notes answered)
+- [x] Task 4: `linux-triage.sh` created, syntax validated, executable permission set (Screenshots 5–8, Notes answered)
+- [x] Task 5: Healthy-state report generated with no FAIL result (Screenshots 9–10, Notes answered)
+- [x] Task 6: `/linux-triage` skill created and run successfully on healthy server (Screenshots 11–12, Notes answered)
+- [x] Task 7: Nginx incident simulated, failed evidence captured, Claude did not execute recovery (Screenshots 13–15, Notes answered)
+- [x] Task 8: Nginx recovered manually, recovery verified, reports saved, incident summary complete (Screenshots 16–19, Notes answered)
+- [x] Incident summary contains all seven required sections
+- [x] LinkedIn post published and URL submitted
+- [x] Full Name visible in all required screenshots and the Bash report
+- [x] Skill does not have Write permission
+- [x] Skill did not execute any recovery commands
+- [x] No sensitive data exposed
 
 ---
 
