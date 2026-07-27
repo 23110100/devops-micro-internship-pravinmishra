@@ -80,21 +80,19 @@ Add a professional bio to your GitHub profile — and optionally your location, 
 
 ## GitHub Profile URL
 
-Paste your GitHub profile URL here:
-
-](https://github.com/23110100)
+https://github.com/23110100
 
 ---
 
 # Completion Checklist
 
-- [ ] GitHub account created or existing account confirmed (Screenshot 1)
-- [ ] Trending repositories explored (Screenshot 3)
-- [ ] At least one repository starred (Screenshot 4)
-- [ ] At least one public repository forked (Screenshot 5)
-- [ ] Professional bio added to your GitHub profile (Screenshot 6)
-- [ ] GitHub profile URL included
-- [ ] No passwords, codes, or authentication secrets exposed
+- [x] GitHub account created or existing account confirmed (Screenshot 1)
+- [x] Trending repositories explored (Screenshot 3)
+- [x] At least one repository starred (Screenshot 4)
+- [x] At least one public repository forked (Screenshot 5)
+- [x] Professional bio added to your GitHub profile (Screenshot 6)
+- [x] GitHub profile URL included
+- [x] No passwords, codes, or authentication secrets exposed
 
 ---
 
