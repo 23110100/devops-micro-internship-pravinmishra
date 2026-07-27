@@ -20,13 +20,13 @@ Confirm that Nginx and the React application are healthy before building the aut
 
 #### Screenshot 1 — Output of `systemctl is-active nginx`, `ss -ltn | grep ':80'`, and `curl -I http://localhost`
 
-![alt text](<Week 03_Assignment 06_Screenshot 1.png>)
-![alt text](<Week 03_Assignment 06_Screenshot 1.1png.png>)
+![alt text](<screenshots/Week 03_Assignment 06_Screenshot 1.png>)
+![alt text](<screenshots/Week 03_Assignment 06_Screenshot 1.1png.png>)
 ---
 
 #### Screenshot 2 — Output of `pwd` and `find . -maxdepth 4 -type d | sort` showing the workspace folder structure
 
-![alt text](<Week 03_Assignment 06_Screenshot 2.png>)
+![alt text](<screenshots/Week 03_Assignment 06_Screenshot 2.png>)
 
 ---
 
@@ -62,7 +62,7 @@ Tell Claude exactly what this project does and what it is not allowed to do.
 
 #### Screenshot 3 — CLAUDE.md open in VS Code showing all four sections (Project Overview, Incident Workflow, Safety Rules, Output Rules)
 
-![alt text](<Week 03_Assignment 06_Screenshot 3.png>)
+![alt text](<screenshots/Week 03_Assignment 06_Screenshot 3.png>)
 
 ---
 
@@ -99,7 +99,7 @@ Use Claude Code to inspect the environment and produce a read-only plan before c
 
 #### Screenshot 4 — Claude Code showing the five-check plan and read-only inspection results
 
-![alt text](<Week 03_Assignment 06_Screenshot 4.png>)
+![alt text](<screenshots/Week 03_Assignment 06_Screenshot 4.png>)
 
 ---
 
@@ -133,25 +133,25 @@ Create one Bash script that gathers consistent Linux and Nginx health evidence.
 
 #### Screenshot 5 — Top section of `linux-triage.sh` showing variables, thresholds, and the checks array
 
-![alt text](<Week 03_Assignment 06_Screenshot 5.png>)
+![alt text](<screenshots/Week 03_Assignment 06_Screenshot 5.png>)
 
 ---
 
 #### Screenshot 6 — Middle section showing check functions and conditionals
 
-![alt text](<Week 03_Assignment 06_Screenshot 6.png>)
+![alt text](<screenshots/Week 03_Assignment 06_Screenshot 6.png>)
 
 ---
 
 #### Screenshot 7 — Bottom section showing the loop, summary function, and exit behavior
 
-![alt text](<Week 03_Assignment 06_Screenshot 7.png>)
+![alt text](<screenshots/Week 03_Assignment 06_Screenshot 7.png>)
 
 ---
 
 #### Screenshot 8 — Output of `bash -n scripts/linux-triage.sh` (no syntax errors) and `ls -l scripts/linux-triage.sh` showing executable permission
 
-![alt text](<Week 03_Assignment 06_Screenshot 8.png>)
+![alt text](<screenshots/Week 03_Assignment 06_Screenshot 8.png>)
 
 ---
 
@@ -199,13 +199,13 @@ Run the Bash script against the healthy server and verify that it creates a repo
 
 #### Screenshot 9 — Output of `./scripts/linux-triage.sh` showing your Full Name and all five check results
 
-![alt text](<Week 03_Assignment 06_Screenshot 9.png>)
+![alt text](<screenshots/Week 03_Assignment 06_Screenshot 9.png>)
 
 ---
 
 #### Screenshot 10 — Output showing the captured exit code and final summary
 
-![alt text](<Week 03_Assignment 06_Screenshot 10.png>)
+![alt text](<screenshots/Week 03_Assignment 06_Screenshot 10.png>)
 
 ---
 
@@ -245,13 +245,13 @@ Turn the Bash script into a reusable, manually invoked Agentic AI workflow.
 
 #### Screenshot 11 — `SKILL.md` showing the frontmatter, allowed tool restrictions, and safety rules
 
-![alt text](<Week 03_Assignment 06_Screenshot 11.png>)
+![alt text](<screenshots/Week 03_Assignment 06_Screenshot 11.png>)
 
 ---
 
 #### Screenshot 12 — `/linux-triage` output for the healthy server
 
-![alt text](<Week 03_Assignment 06_Screenshot 12.png>)
+![alt text](<screenshots/Week 03_Assignment 06_Screenshot 12.png>)
 
 ---
 
@@ -291,19 +291,19 @@ Create a controlled service failure, gather evidence through Bash, and let Claud
 
 #### Screenshot 13 — Output showing Nginx is inactive and the HTTP request fails
 
-![alt text](<Week 03_Assignment 06_Screenshot 13.png>)
+![alt text](<screenshots/Week 03_Assignment 06_Screenshot 13.png>)
 
 ---
 
 #### Screenshot 14 — `/linux-triage` output showing failed evidence, most likely cause, and a suggested recovery command
 
-![alt text](<Week 03_Assignment 06_Screenshot 14.png>)
+![alt text](<screenshots/Week 03_Assignment 06_Screenshot 14.png>)
 
 ---
 
 #### Screenshot 15 — `incident-failure-report.txt` showing the failed checks and your Full Name
 
-![alt text](<Week 03_Assignment 06_Screenshot 15.png>)
+![alt text](<screenshots/Week 03_Assignment 06_Screenshot 15.png>)
 ---
 
 ### Notes
@@ -350,25 +350,25 @@ Recover the service as the human operator and prove that the system is healthy a
 
 #### Screenshot 16 — Output showing Nginx is active and `curl -I http://localhost` returns 200 OK
 
-![alt text](<Week 03_Assignment 06_Screenshot 16.png>)
+![alt text](<screenshots/Week 03_Assignment 06_Screenshot 16.png>)
 
 ---
 
 #### Screenshot 17 — Second `/linux-triage` output showing successful recovery with no FAIL results
 
-![alt text](<Week 03_Assignment 06_Screenshot 17.png>)
+![alt text](<screenshots/Week 03_Assignment 06_Screenshot 17.png>)
 
 ---
 
 #### Screenshot 18 — Output of `ls -lah reports` showing both `incident-failure-report.txt` and `recovery-report.txt`
 
-![alt text](<Week 03_Assignment 06_Screenshot 18.png>)
+![alt text](<screenshots/Week 03_Assignment 06_Screenshot 18.png>)
 
 ---
 
 #### Screenshot 19 — `incident-summary.md` showing all required sections and your Full Name
 
-![alt text](<Week 03_Assignment 06_Screenshot 19.png>)
+![alt text](<screenshots/Week 03_Assignment 06_Screenshot 19.png>)
 
 ---
 
@@ -482,7 +482,7 @@ Verify: The system was checked again to confirm Nginx and the application had re
 
 #### Screenshot — Published LinkedIn post
 
-![alt text](<LinkedIn Post_4.png>)
+![alt text](<screenshots/LinkedIn Post_4.png>)
 
 ---
 

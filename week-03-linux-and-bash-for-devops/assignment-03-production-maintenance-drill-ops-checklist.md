@@ -20,25 +20,25 @@ Verify that the deployed React application is reachable from the browser and con
 
 #### Screenshot 1 — Browser showing the React app with your Full Name visible on the UI
 
-![alt text](<Week 03_Assignment 03_Screenshot 1.png>)
+![alt text](<screenshots/Week 03_Assignment 03_Screenshot 1.png>)
 
 ---
 
 #### Screenshot 2 — Output of `ip a`
 
-![alt text](<Week 03_Assignment 03_Screenshot 2.png>)
+![alt text](<screenshots/Week 03_Assignment 03_Screenshot 2.png>)
 
 ---
 
 #### Screenshot 3 — Output of `sudo ss -tulpen`
 
-![alt text](<Week 03_Assignment 03_Screenshot 3.png>)
+![alt text](<screenshots/Week 03_Assignment 03_Screenshot 3.png>)
 
 ---
 
 #### Screenshot 4 — Output of `sudo ufw status`
 
-![alt text](<Week 03_Assignment 03_Screenshot 4.png>)
+![alt text](<screenshots/Week 03_Assignment 03_Screenshot 4.png>)
 
 ---
 
@@ -74,19 +74,19 @@ Verify that Nginx is properly installed, running, enabled at boot, and safely co
 
 #### Screenshot 1 — Output of `systemctl status nginx --no-pager`
 
-![alt text](<Week 03_Assignment 03_Screenshot 5.png>)
+![alt text](<screenshots/Week 03_Assignment 03_Screenshot 5.png>)
 
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t`
 
-![alt text](<Week 03_Assignment 03_Screenshot 6.png>)
+![alt text](<screenshots/Week 03_Assignment 03_Screenshot 6.png>)
 
 ---
 
 #### Screenshot 3 — Output of `sudo ss -lptn '( sport = :80 )'`
 
-![alt text](<Week 03_Assignment 03_Screenshot 7.png>)
+![alt text](<screenshots/Week 03_Assignment 03_Screenshot 7.png>)
 
 ---
 
@@ -114,19 +114,19 @@ Verify real traffic flow and analyze logs to understand system behavior and erro
 
 #### Screenshot 1 — Output of `sudo tail -n 30 /var/log/nginx/access.log`
 
-![alt text](<Week 03_Assignment 03_Screenshot 8.png>)
+![alt text](<screenshots/Week 03_Assignment 03_Screenshot 8.png>)
 
 ---
 
 #### Screenshot 2 — Output of `sudo tail -n 30 /var/log/nginx/error.log`
 
-![alt text](<Week 03_Assignment 03_Screenshot 9.png>)
+![alt text](<screenshots/Week 03_Assignment 03_Screenshot 9.png>)
 
 ---
 
 #### Screenshot 3 — Output of `sudo journalctl -u nginx --no-pager -n 50`
 
-![alt text](<Week 03_Assignment 03_Screenshot 10.png>)
+![alt text](<screenshots/Week 03_Assignment 03_Screenshot 10.png>)
 
 ---
 
@@ -166,25 +166,25 @@ Assess server capacity and detect potential performance or failure risks.
 
 #### Screenshot 1 — Output of `uptime`
 
-![alt text](<Week 03_Assignment 03_Screenshot 11.png>)
+![alt text](<screenshots/Week 03_Assignment 03_Screenshot 11.png>)
 
 ---
 
 #### Screenshot 2 — Output of `free -h`
 
-![alt text](<Week 03_Assignment 03_Screenshot 12.png>)
+![alt text](<screenshots/Week 03_Assignment 03_Screenshot 12.png>)
 
 ---
 
 #### Screenshot 3 — Output of `df -h`
 
-![alt text](<Week 03_Assignment 03_Screenshot 13-1.png>)
+![alt text](<screenshots/Week 03_Assignment 03_Screenshot 13-1.png>)
 
 ---
 
 #### Screenshot 4 — Output of `sudo du -sh /var/* | sort -h`
 
-![alt text](<Week 03_Assignment 03_Screenshot 13.png>)
+![alt text](<screenshots/Week 03_Assignment 03_Screenshot 13.png>)
 
 ---
 
@@ -214,19 +214,19 @@ Ensure the correct React build is deployed and Nginx is serving it properly.
 
 #### Screenshot 1 — Output of `ls -lah /var/www/html | head -n 20`
 
-![alt text](<Week 03_Assignment 03_Screenshot 14.png>)
+![alt text](<screenshots/Week 03_Assignment 03_Screenshot 14.png>)
 
 ---
 
 #### Screenshot 2 — Output of `grep -R "Deployed by" -n /var/www/html 2>/dev/null | head`
 
-![alt text](<Week 03_Assignment 03_Screenshot 15.png>)
+![alt text](<screenshots/Week 03_Assignment 03_Screenshot 15.png>)
 
 ---
 
 #### Screenshot 3 — Output of `grep -n "try_files" /etc/nginx/sites-available/default`
 
-![alt text](<Week 03_Assignment 03_Screenshot 16.png>)
+![alt text](<screenshots/Week 03_Assignment 03_Screenshot 16.png>)
 
 ---
 
@@ -252,19 +252,19 @@ Simulate a real-world Nginx misconfiguration and recover the service safely.
 
 #### Screenshot 1 — Output of `sudo nginx -t` showing the syntax error (broken config)
 
-![alt text](<Week 03_Assignment 03_Screenshot 17-3.png>)
+![alt text](<screenshots/Week 03_Assignment 03_Screenshot 17-3.png>)
 
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t` showing syntax ok (fixed config)
 
-![alt text](<Week 03_Assignment 03_Screenshot 17-1.png>)
+![alt text](<screenshots/Week 03_Assignment 03_Screenshot 17-1.png>)
 
 ---
 
 #### Screenshot 3 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-![alt text](<Week 03_Assignment 03_Screenshot 18-1.png>)
+![alt text](<screenshots/Week 03_Assignment 03_Screenshot 18-1.png>)
 
 ---
 
@@ -300,13 +300,13 @@ Simulate missing deployment content and recover the application safely.
 
 #### Screenshot 1 — Output of `curl -I http://<public-ip>` showing failure (non-200 response)
 
-![alt text](<Week 03_Assignment 03_Screenshot 19.png>)
+![alt text](<screenshots/Week 03_Assignment 03_Screenshot 19.png>)
 
 ---
 
 #### Screenshot 2 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-![alt text](<Week 03_Assignment 03_Screenshot 20.png>)
+![alt text](<screenshots/Week 03_Assignment 03_Screenshot 20.png>)
 
 ---
 
@@ -387,7 +387,7 @@ Paste your LinkedIn post URL here:
 
 #### Screenshot — Published LinkedIn post
 
-![alt text](<LinkedIn Post_2.png>)
+![alt text](<screenshots/LinkedIn Post_2.png>)
 
 ---
 

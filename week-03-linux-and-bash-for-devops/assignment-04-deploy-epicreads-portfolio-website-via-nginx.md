@@ -20,7 +20,7 @@ Verify the Ubuntu VM and Nginx are ready for deployment.
 
 #### Screenshot 0 — Output of `sudo systemctl status nginx --no-pager` showing Active (running)
 
-![alt text](<Week 03_Assignment 04_Screenshot 0.png>)
+![alt text](<screenshots/Week 03_Assignment 04_Screenshot 0.png>)
 
 ---
 
@@ -34,7 +34,7 @@ Download and extract the portfolio website template.
 
 #### Screenshot 1 — Output of `ls -la` showing the extracted project folder
 
-![alt text](<Week 03_Assignment 04_Screenshot 1.png>)
+![alt text](<screenshots/Week 03_Assignment 04_Screenshot 1.png>)
 
 ---
 
@@ -48,7 +48,7 @@ Update the website footer with your deployment details.
 
 #### Screenshot 2 — Nano editor open with the updated footer showing your Full Name, Group, Week, and Date
 
-![alt text](<Week 03_Assignment 04_Screenshot 2.png>)
+![alt text](<screenshots/Week 03_Assignment 04_Screenshot 2.png>)
 
 ---
 
@@ -62,13 +62,13 @@ Deploy the portfolio website to the Nginx web root.
 
 #### Screenshot 3 — Output of `sudo nginx -t` showing configuration test successful
 
-![alt text](<Week 03_Assignment 04_Screenshot 3.png>)
+![alt text](<screenshots/Week 03_Assignment 04_Screenshot 3.png>)
 
 ---
 
 #### Screenshot 4 — Output of `ls /var/www/html` showing deployed website files
 
-![alt text](<Week 03_Assignment 04_Screenshot 4.png>)
+![alt text](<screenshots/Week 03_Assignment 04_Screenshot 4.png>)
 
 ---
 
@@ -82,13 +82,13 @@ Verify the deployed website is publicly accessible and the footer contains your 
 
 #### Screenshot 5 — Output of `curl ifconfig.me` showing the server's public IP address
 
-![alt text](<Week 03_Assignment 04_Screenshot 5.png>)
+![alt text](<screenshots/Week 03_Assignment 04_Screenshot 5.png>)
 
 ---
 
 #### Screenshot 6 — Browser showing the live website with your Full Name and deployment details in the footer
 
-![alt text](<Week 03_Assignment 04_Screenshot 6.png>)
+![alt text](<screenshots/Week 03_Assignment 04_Screenshot 6.png>)
 
 ---
 
@@ -102,13 +102,13 @@ Verify the deployed website and Nginx service are healthy.
 
 #### Screenshot 7 — Output of `systemctl is-enabled nginx`
 
-![alt text](<Week 03_Assignment 04_Screenshot 7.png>)
+![alt text](<screenshots/Week 03_Assignment 04_Screenshot 7.png>)
 
 ---
 
 #### Screenshot 8 — Output of `curl -I http://localhost` showing 200 OK
 
-![alt text](<Week 03_Assignment 04_Screenshot 8.png>)
+![alt text](<screenshots/Week 03_Assignment 04_Screenshot 8.png>)
 
 ---
 
@@ -128,8 +128,8 @@ Paste your LinkedIn post URL here:
 
 #### Screenshot — Published LinkedIn post showing the live website with your Full Name in the footer
 
-![alt text](<Week 03_Assignment 04_Screenshot 6-1.png>) 
-![alt text](<LinkedIn Post_2-1.png>)
+![alt text](<screenshots/Week 03_Assignment 04_Screenshot 6-1.png>) 
+![alt text](<screenshots/LinkedIn Post_2-1.png>)
 
 ---
 
