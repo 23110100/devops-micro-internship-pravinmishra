@@ -417,7 +417,6 @@ The script stores data in variables, keeps multiple values in arrays, processes 
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
 
 `https://www.linkedin.com/posts/ossa-agharese-01991a233_devops-linux-bashscripting-share-7484750745934721024-FgDp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpVsJUBYBjWiWLSBz1ZojH27wf_yizZYUA`
 
