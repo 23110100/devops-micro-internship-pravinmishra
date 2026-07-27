@@ -88,7 +88,7 @@ Fetch and merge `upstream/main` into your local default branch, rebase your feat
 
 #### Screenshot 7 — Your fork on GitHub showing `feature-readme-update` in the branch selector or a "Compare & pull request" banner
 
-Add your screenshot here.
+![alt text](<Week 4 Assignment 5_Screenshot 8-2.png>)
 
 ---
 
@@ -118,7 +118,7 @@ Paste your Pull Request URL here:
 
 https://github.com/pravinmishraaws/devops-micro-internship-interviews/pull/372
 
-https://github.com/pravinmishraaws/devops-micro-internship-interviews/pulls
+
 ---
 
 # LinkedIn Post (Required)
@@ -126,8 +126,6 @@ https://github.com/pravinmishraaws/devops-micro-internship-interviews/pulls
 ## Evidence
 
 #### LinkedIn Post URL
-
-Paste your LinkedIn post URL here:
 
 https://www.linkedin.com/posts/ossa-agharese-01991a233_devops-git-github-share-7486246589720588288-WTuP/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpVsJUBYBjWiWLSBz1ZojH27wf_yizZYUA
 
@@ -150,23 +148,21 @@ https://www.linkedin.com/posts/ossa-agharese-01991a233_devops-git-github-share-7
 
 ## Fork URL
 
-Paste your fork URL here:
-
-https://github.com/pravinmishraaws/devops-micro-internship-interviews/pull/372
+https://github.com/23110100/devops-micro-internship-interviews
 
 ---
 
 # Completion Checklist
 
-- [ ] Upstream repository forked to your GitHub account (Screenshot 1)
-- [ ] GitHub authentication configured securely (Screenshot 2)
-- [ ] Fork cloned locally with `origin` and `upstream` configured (Screenshot 3)
-- [ ] Only `pull_request.md` modified, with your own entry added (Screenshots 4–5)
-- [ ] Local default branch synchronized with `upstream/main`, feature branch rebased and pushed (Screenshots 6–7)
-- [ ] Pull Request opened against the correct upstream repository and branch (Screenshots 8–9)
-- [ ] Fork URL and Pull Request URL included
-- [ ] LinkedIn post published and URL submitted
-- [ ] No PAT, password, private key, or authentication secret exposed
+- [x] Upstream repository forked to your GitHub account (Screenshot 1)
+- [x] GitHub authentication configured securely (Screenshot 2)
+- [x] Fork cloned locally with `origin` and `upstream` configured (Screenshot 3)
+- [x] Only `pull_request.md` modified, with your own entry added (Screenshots 4–5)
+- [x] Local default branch synchronized with `upstream/main`, feature branch rebased and pushed (Screenshots 6–7)
+- [x] Pull Request opened against the correct upstream repository and branch (Screenshots 8–9)
+- [x] Fork URL and Pull Request URL included
+- [x] LinkedIn post published and URL submitted
+- [x] No PAT, password, private key, or authentication secret exposed
 
 ---
 
