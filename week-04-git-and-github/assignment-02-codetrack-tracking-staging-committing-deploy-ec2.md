@@ -162,9 +162,7 @@ Install and start Nginx on your EC2 instance, then copy `index.html` and `style.
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
-
-(https://www.linkedin.com/posts/ossa-agharese-01991a233_dmi-devops-micro-internship-with-agentic-share-7485924171345170433-3Mgh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpVsJUBYBjWiWLSBz1ZojH27wf_yizZYUA)
+https://www.linkedin.com/posts/ossa-agharese-01991a233_dmi-devops-micro-internship-with-agentic-share-7485924171345170433-3Mgh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpVsJUBYBjWiWLSBz1ZojH27wf_yizZYUA
 
 ---
 

@@ -378,8 +378,6 @@ Unused cloud resources should be stopped or terminated to avoid unnecessary cost
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
-
 `https://www.linkedin.com/posts/ossa-agharese-01991a233_devops-systemsengineering-nginx-share-7484745054167703552-r7CG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpVsJUBYBjWiWLSBz1ZojH27wf_yizZYUA`
 
 
