@@ -20,7 +20,7 @@ Discover exactly where Claude Code stores memory for this project.
 
 #### Screenshot 1 — Memory file path shown by Claude
 
-![alt text](<Week 02_Assignment 07_Screenshot 1-1.png>)
+![alt text](<screenshots/Week 02_Assignment 07_Screenshot 1-1.png>)
 
 ---
 
@@ -34,13 +34,13 @@ Teach Claude three specific facts about the project and instruct it to save them
 
 #### Screenshot 2 — Claude confirming the memory was saved
 
-![alt text](<Week 02_Assignment 07_Screenshot 2-1.png>)
+![alt text](<screenshots/Week 02_Assignment 07_Screenshot 2-1.png>)
 
 ---
 
 #### Screenshot 3 — The `MEMORY.md` file open in VS Code showing the saved content
 
-![alt text](<Week 02_Assignment 07_Screenshot 3-1.png>)
+![alt text](<screenshots/Week 02_Assignment 07_Screenshot 3-1.png>)
 
 ---
 
@@ -54,7 +54,7 @@ Terminate the current Claude Code session and restart it to ensure memory is the
 
 #### Screenshot 4 — VS Code reopened with a fresh Claude Code session showing no previous conversation
 
-![alt text](<Week 02_Assignment 07_Screenshot 4-1.png>)
+![alt text](<screenshots/Week 02_Assignment 07_Screenshot 4-1.png>)
 
 ---
 
@@ -68,13 +68,13 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 #### Screenshot 5 — Claude recalling hero section colors
 
-![alt text](<Week 02_Assignment 07_Screenshot 5-1.png>)
+![alt text](<screenshots/Week 02_Assignment 07_Screenshot 5-1.png>)
 
 ---
 
 #### Screenshot 6 — Claude refusing JavaScript request based on memory rule
 
-![alt text](<Week 02_Assignment 07_Screenshot 6-1.png>)
+![alt text](<screenshots/Week 02_Assignment 07_Screenshot 6-1.png>)
 
 ---
 

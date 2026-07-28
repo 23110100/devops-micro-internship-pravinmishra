@@ -20,7 +20,7 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
 
-![alt text](<Week 02_Assignment 04_Screenshot 1-1.png>)
+![alt text](<screenshots/Week 02_Assignment 04_Screenshot 1-1.png>)
 
 ---
 
@@ -54,13 +54,13 @@ The tf-writer uses `inherit` so it automatically uses the same model configured 
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-![alt text](<Week 02_Assignment 04_Screenshot 2-1.png>)
+![alt text](<screenshots/Week 02_Assignment 04_Screenshot 2-1.png>)
 
 ---
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-![alt text](<Week 02_Assignment 04_Screenshot 3-1.png>)
+![alt text](<screenshots/Week 02_Assignment 04_Screenshot 3-1.png>)
 
 ---
 
@@ -74,13 +74,13 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 4 — The delegation message showing Claude launched the security-auditor
 
-![alt text](<Week 02_Assignment 04_Screenshot 4-1.png>)
+![alt text](<screenshots/Week 02_Assignment 04_Screenshot 4-1.png>)
 
 ---
 
 #### Screenshot 5 — Security audit report output
 
-![alt text](<Week 02_Assignment 04_Screenshot 5-1.png>)
+![alt text](<screenshots/Week 02_Assignment 04_Screenshot 5-1.png>)
 
 ---
 
@@ -94,7 +94,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 #### Screenshot 6 — The full cost optimization report
 
-![alt text](<Week 02_Assignment 04_Screenshot 6-1.png>)
+![alt text](<screenshots/Week 02_Assignment 04_Screenshot 6-1.png>)
 
 ---
 
