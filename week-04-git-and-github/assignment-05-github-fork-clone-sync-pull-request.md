@@ -20,7 +20,7 @@ Fork `pravinmishraaws/devops-micro-internship-interviews` into your own GitHub a
 
 #### Screenshot 1 — Your fork page with your username and `devops-micro-internship-interviews` visible in the browser URL
 
-![alt text](<Week 4 Assignment 4_Screenshot 7.png>)
+![alt text](<screenshots/Week 4 Assignment 4_Screenshot 7.png>)
 
 ---
 
@@ -34,7 +34,7 @@ Configure one authentication method — HTTPS with a Personal Access Token, or S
 
 #### Screenshot 2 — Output of `git config --global --get credential.helper` (HTTPS) or `ssh -T git@github.com` (SSH) showing successful authentication — never show your token or private key
 
-![alt text](<Week 4 Assignment 4_Screenshot 8.png>)
+![alt text](<screenshots/Week 4 Assignment 4_Screenshot 8.png>)
 
 ---
 
@@ -48,7 +48,7 @@ Clone your fork locally, then add the original repository as `upstream`.
 
 #### Screenshot 3 — Output of `git remote -v` showing `origin` pointing to your fork and `upstream` pointing to `pravinmishraaws/devops-micro-internship-interviews`
 
-![alt text](<Week 4 Assignment 4_Screenshot 9.png>)
+![alt text](<screenshots/Week 4 Assignment 4_Screenshot 9.png>)
 
 ---
 
@@ -62,13 +62,13 @@ Create the branch `feature-readme-update`, add only your own entry (`Full Name �
 
 #### Screenshot 4 — Output of `git status` showing `pull_request.md` modified before staging
 
-![alt text](<Week 4 Assignment 5_Screenshot 5.png>)
+![alt text](<screenshots/Week 4 Assignment 5_Screenshot 5.png>)
 
 ---
 
 #### Screenshot 5 — Output of `git commit`
 
-![alt text](<Week 4 Assignment 5_Screenshot 6.png>)
+![alt text](<screenshots/Week 4 Assignment 5_Screenshot 6.png>)
 
 ---
 
@@ -82,13 +82,13 @@ Fetch and merge `upstream/main` into your local default branch, rebase your feat
 
 #### Screenshot 6 — Output of `git push -u origin feature-readme-update` showing a successful push
 
-![alt text](<Week 4 Assignment 5_Screenshot 7.png>)
+![alt text](<screenshots/Week 4 Assignment 5_Screenshot 7.png>)
 
 ---
 
 #### Screenshot 7 — Your fork on GitHub showing `feature-readme-update` in the branch selector or a "Compare & pull request" banner
 
-![alt text](<Week 4 Assignment 5_Screenshot 8-2.png>)
+![alt text](<screenshots/Week 4 Assignment 5_Screenshot 8-2.png>)
 
 ---
 
@@ -102,13 +102,13 @@ Open a Pull Request from `feature-readme-update` on your fork to `main` on the u
 
 #### Screenshot 8 — Pull Request creation page showing the correct base repository, base branch, head repository, compare branch, and title
 
-![alt text](<Week 4 Assignment 5_Screenshot 8.png>)
+![alt text](<screenshots/Week 4 Assignment 5_Screenshot 8.png>)
 
 ---
 
 #### Screenshot 9 — Successfully created Pull Request page with the PR number visible
 
-![alt text](<Week 4 Assignment 5_Screenshot 8-1.png>)
+![alt text](<screenshots/Week 4 Assignment 5_Screenshot 8-1.png>)
 
 ---
 

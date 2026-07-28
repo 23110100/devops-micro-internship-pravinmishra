@@ -20,13 +20,13 @@ Create a `CodeTrack` project folder and initialize it as a Git repository.
 
 #### Screenshot 1 — Output of `git init` inside `CodeTrack` showing "Initialized empty Git repository"
 
-![alt text](<Week 4 Assignment_Screenshot 1.png>)
+![alt text](<screenshots/Week 4 Assignment_Screenshot 1.png>)
 
 ---
 
 #### Screenshot 2 — Output of `ls -a` showing the `.git` folder
 
-![alt text](<Week 4 Assignment_Screenshot 2.png>)
+![alt text](<screenshots/Week 4 Assignment_Screenshot 2.png>)
 
 ---
 
@@ -50,7 +50,7 @@ Set your Git username and email for the `CodeTrack` repository only, using `git 
 
 #### Screenshot 3 — Output of `git config --local --list` showing your `user.name` and `user.email`
 
-![alt text](<Week 4 Assignment_Screenshot 3.png>)
+![alt text](<screenshots/Week 4 Assignment_Screenshot 3.png>)
 
 ---
 
@@ -64,7 +64,7 @@ Set a global Git username and email for this machine using `git config --global`
 
 #### Screenshot 4 — Output of `git config --global --list` showing your `user.name` and `user.email`
 
-![alt text](<Week 4 Assignment_Screenshot 4.png>)
+![alt text](<screenshots/Week 4 Assignment_Screenshot 4.png>)
 
 ---
 

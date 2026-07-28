@@ -27,7 +27,7 @@ Confirm you are working in your own fork, then create a dedicated branch for thi
 
 #### Screenshot 1 — Output of git remote -v and git branch showing the new branch
 
-![alt text](<Week 4 Assignment 6_Screenshot 1.png>)
+![alt text](<screenshots/Week 4 Assignment 6_Screenshot 1.png>)
 
 ---
 
@@ -52,7 +52,7 @@ On your own fork of this repository (the one you've been submitting your DMI wor
 
 #### Screenshot 1 — Output of  `git status` showing the staged file on feature/ai-pr-ready
 
-![alt text](<Week 4 Assignment 6_Screenshot 1.1png.png>)
+![alt text](<screenshots/Week 4 Assignment 6_Screenshot 1.1png.png>)
 
 ---
 
@@ -75,13 +75,13 @@ Create a tracked, shareable pre-commit hook that blocks a commit containing secr
 
 #### Screenshot 2 — `hooks/pre-commit` open in VS Code showing the full script
 
-![alt text](<Week 4 Assignment 6_Screenshot 2.png>)
+![alt text](<screenshots/Week 4 Assignment 6_Screenshot 2.png>)
 
 ---
 
 #### Screenshot 3 — Output of `git config core.hooksPath` confirming it points to `hooks`
 
-![alt text](<Week 4 Assignment 6_Screenshot 3.png>)
+![alt text](<screenshots/Week 4 Assignment 6_Screenshot 3.png>)
 
 ---
 
@@ -119,7 +119,7 @@ Attempt to commit the staged file from Task 1 and show the hook rejecting it.
 
 #### Screenshot 4 — Terminal showing `git commit` rejected with the hook's "BLOCKED" message naming the exact file
 
-![alt text](<Week 4 Assignment 6_Screenshot 4.png>)
+![alt text](<screenshots/Week 4 Assignment 6_Screenshot 4.png>)
 
 ---
 
@@ -156,7 +156,7 @@ Add your screenshot here.
 
 #### Screenshot 6 — `/pr-ready` output while the risky file is still staged, showing it flagged the secret and/or debug statement
 
-![alt text](<Week 4 Assignment 6_Screenshot 5.png>)
+![alt text](<screenshots/Week 4 Assignment 6_Screenshot 5.png>)
 
 ---
 
@@ -194,13 +194,13 @@ Remove the secret and debug statement, then prove both gates now pass clean.
 
 #### Screenshot 7 — `git commit` succeeding after the fix (no BLOCKED message)
 
-![alt text](<Week 4 Assignment 6_Screenshot 6.png>)
+![alt text](<screenshots/Week 4 Assignment 6_Screenshot 6.png>)
 
 ---
 
 #### Screenshot 8 — Second `/pr-ready` run showing a clean risk report and a drafted PR title + description
 
-![alt text](<Week 4 Assignment 6_Screenshot 7.png>)
+![alt text](<screenshots/Week 4 Assignment 6_Screenshot 7.png>)
 
 ---
 
@@ -225,7 +225,7 @@ Push your branch and open a real Pull Request, using `/pr-ready`'s drafted title
 
 #### Screenshot 9 — Your Pull Request showing the base repository is your own fork, plus the title and description, with the `/pr-ready` draft visible for comparison (paste it in the PR conversation or your notes below)
 
-![alt text](<Week 4 Assignment 6_Screenshot 8-1.png>)
+![alt text](<screenshots/Week 4 Assignment 6_Screenshot 8-1.png>)
 
 ---
 
