@@ -313,13 +313,13 @@ Week-6 is **7 assignment files**, each graded pass/fail — your LinkedIn post a
 
 | S. No. | Item | Comments | Link |
 |--------|------|----------|------|
-| 1 | Week-7 Class Recording | Watch the recording of the Week-7 live class on YouTube | [YouTube]([YOUTUBE LIVE LINK]) |
+| 1 | Week-7 Class Recording | Watch the recording of the Week-7 live class on YouTube | - |
 
 ---
 
 ### Week 7: Assignments Submission Guidelines – DevOps Micro Internship (DMI) Cohort-3
 
-* **Deadline - [DEADLINE]**
+* **Deadline - __**
 
 Week-7 is **7 assignment files**, each graded pass/fail — your LinkedIn post and blog post for the week are scored separately below:
 
@@ -342,13 +342,13 @@ Week-7 is **7 assignment files**, each graded pass/fail — your LinkedIn post a
 
 | S. No. | Item | Comments | Link |
 |--------|------|----------|------|
-| 1 | Week-8 Class Recording | Watch the recording of the Week-8 live class on YouTube | [YouTube]([YOUTUBE LIVE LINK]) |
+| 1 | Week-8 Class Recording | Watch the recording of the Week-8 live class on YouTube | - |
 
 ---
 
 ### Week 8: Assignments Submission Guidelines – DevOps Micro Internship (DMI) Cohort-3
 
-* **Deadline - [DEADLINE]**
+* **Deadline - __**
 
 Week-8 is **6 assignment files**, each graded pass/fail — your LinkedIn post and blog post for the week are scored separately below:
 
@@ -370,13 +370,13 @@ Week-8 is **6 assignment files**, each graded pass/fail — your LinkedIn post a
 
 | S. No. | Item | Comments | Link |
 |--------|------|----------|------|
-| 1 | Week-9 Class Recording | Watch the recording of the Week-9 live class on YouTube | [YouTube]([YOUTUBE LIVE LINK]) |
+| 1 | Week-9 Class Recording | Watch the recording of the Week-9 live class on YouTube | - |
 
 ---
 
 ### Week 9: Assignments Submission Guidelines – DevOps Micro Internship (DMI) Cohort-3
 
-* **Deadline - [DEADLINE]**
+* **Deadline - __**
 
 Week-9 is **6 assignment files**, each graded pass/fail — your LinkedIn post and blog post for the week are scored separately below:
 
@@ -398,13 +398,13 @@ Week-9 is **6 assignment files**, each graded pass/fail — your LinkedIn post a
 
 | S. No. | Item | Comments | Link |
 |--------|------|----------|------|
-| 1 | Week-10 Class Recording | Watch the recording of the Week-10 live class on YouTube | [YouTube]([YOUTUBE LIVE LINK]) |
+| 1 | Week-10 Class Recording | Watch the recording of the Week-10 live class on YouTube | - |
 
 ---
 
 ### Week 10: Assignments Submission Guidelines – DevOps Micro Internship (DMI) Cohort-3
 
-* **Deadline - [DEADLINE]**
+* **Deadline - __**
 
 Week-10 is **5 assignment files**, each graded pass/fail — your LinkedIn post and blog post for the week are scored separately below:
 
@@ -425,13 +425,13 @@ Week-10 is **5 assignment files**, each graded pass/fail — your LinkedIn post 
 
 | S. No. | Item | Comments | Link |
 |--------|------|----------|------|
-| 1 | Week-11 Class Recording | Watch the recording of the Week-11 live class on YouTube | [YouTube]([YOUTUBE LIVE LINK]) |
+| 1 | Week-11 Class Recording | Watch the recording of the Week-11 live class on YouTube | - |
 
 ---
 
 ### Week 11: Assignments Submission Guidelines – DevOps Micro Internship (DMI) Cohort-3
 
-* **Deadline - [DEADLINE]**
+* **Deadline - __**
 
 Week-11 is **7 assignment files**, each graded pass/fail — your LinkedIn post and blog post for the week are scored separately below:
 
@@ -454,13 +454,13 @@ Week-11 is **7 assignment files**, each graded pass/fail — your LinkedIn post 
 
 | S. No. | Item | Comments | Link |
 |--------|------|----------|------|
-| 1 | Week-12 Class Recording | Watch the recording of the Week-12 live class on YouTube | [YouTube]([YOUTUBE LIVE LINK]) |
+| 1 | Week-12 Class Recording | Watch the recording of the Week-12 live class on YouTube | - |
 
 ---
 
 ### Week 12: Assignments Submission Guidelines – DevOps Micro Internship (DMI) Cohort-3
 
-* **Deadline - [DEADLINE]**
+* **Deadline - __**
 
 Week-12 is **11 assignment files**, each graded pass/fail — your LinkedIn post and blog post for the week are scored separately below:
 
