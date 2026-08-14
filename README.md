@@ -28,8 +28,8 @@
 
 This is not a course. It is an internship-style program — real deployments, real pipelines, real evidence reviewed by mentors every week.
 
-- 🌐 Program Website: https://dmi.pravinmishra.com
-- 💬 Discord Community: https://discord.pravinmishra.com
+- 🌐 Program Website: https://dmi.pravinmishra.com?utm_source=github&utm_medium=readme
+- 💬 Discord Community: https://discord.pravinmishra.com?utm_source=github&utm_medium=readme
 - 📺 YouTube: [Pravin Mishra](https://www.youtube.com/@awswithpravinmishra)
 - 🔗 Instructor: [LinkedIn](https://www.linkedin.com/in/pravin-mishra-aws-trainer/)
 
@@ -61,7 +61,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 **Preview — what your full stack looks like:**
 
-[![Week 00](./badges/week-00.svg)](./week-00-internet-and-networking/)[![Week 01](./badges/week-01.svg)](./week-01-success-mindset/)[![Week 02](./badges/week-02.svg)](./week-02-agentic-ai/)[![Week 03](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)[![Week 04](./badges/week-04.svg)](./week-04-github/)[![Week 05](./badges/week-05.svg)](./week-05-devops-lifecycle/)[![Week 06](./badges/week-06.svg)](./week-06-aws-cloud/)[![Week 07](./badges/week-07.svg)](./week-07-azure-cloud/)[![Week 08](./badges/week-08.svg)](./week-08-terraform/)[![Week 09](./badges/week-09.svg)](./week-09-ansible/)[![Week 10](./badges/week-10.svg)](./week-10-azure-devops/)[![Week 11](./badges/week-11.svg)](./week-11-docker/)[![Week 12](./badges/week-12.svg)](./week-12-kubernetes/)[![Week 13](./badges/week-13.svg)](./week-13-final-project/)
+[![Week 00](./badges/week-00.svg)](./week-00-internet-and-networking/)[![Week 01](./badges/week-01.svg)](./week-01-success-mindset/)[![Week 02](./badges/week-02.svg)](./week-02-agentic-ai/)[![Week 03](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)[![Week 04](./badges/week-04.svg)](./week-04-git-and-github/)[![Week 05](./badges/week-05.svg)](./week-05-devops-lifecycle/)[![Week 06](./badges/week-06.svg)](./week-06-aws-cloud/)[![Week 07](./badges/week-07.svg)](./week-07-azure-cloud/)[![Week 08](./badges/week-08.svg)](./week-08-terraform/)[![Week 09](./badges/week-09.svg)](./week-09-ansible/)[![Week 10](./badges/week-10.svg)](./week-10-azure-devops/)[![Week 11](./badges/week-11.svg)](./week-11-docker/)[![Week 12](./badges/week-12.svg)](./week-12-kubernetes/)[![Week 13](./badges/week-13.svg)](./week-13-final-project/)
 
 ---
 
@@ -79,11 +79,16 @@ This is not a course. It is an internship-style program — real deployments, re
  Week 03 → Linux & Bash for DevOps 
 [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) 
 
+
  Week 04 → Git & GitHub 
 [![Week 04 – Git](./badges/week-04.svg)](./week-04-github/)
 
-<!-- Week 05 → DevOps Lifecycle & Agile -->
-<!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
+Week 04 → Git & GitHub 
+[![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/) 
+
+
+ Week 05 → DevOps Lifecycle & Agile
+[![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) 
 
 <!-- Week 06 → AWS Cloud -->
 <!-- [![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/) -->
@@ -134,7 +139,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | 02 | Agentic AI with Claude Code | ✅ Completed  | ✅ Completed  |https://www.linkedin.com/posts/ossa-agharese-01991a233_join-the-dmi-devops-micro-internship-share-7481548282167754752-6FT8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpVsJUBYBjWiWLSBz1ZojH27wf_yizZYUA| https://www.linkedin.com/posts/ossa-agharese-01991a233_activity-7481546540067487744-6g56?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpVsJUBYBjWiWLSBz1ZojH27wf_yizZYUA|
 | 03 | Linux-and-bash-for-DevOps | ✅ Completed  | ✅ Completed  |https://www.linkedin.com/posts/ossa-agharese-01991a233_devops-cloudcomputing-nginx-share-7484737822260654080-xs8S/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpVsJUBYBjWiWLSBz1ZojH27wf_yizZYUA | — |
 | 04 | Git & GitHub | ✅ Completed | ✅ Completed  |https://www.linkedin.com/posts/ossa-agharese-01991a233_dmi-devops-micro-internship-with-agentic-share-7485924171345170433-3Mgh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpVsJUBYBjWiWLSBz1ZojH27wf_yizZYUA| https://medium.com/@sammyagharese1/my-2-0-version-a-story-of-growth-and-impact-b3cef647222a?postPublishedType=repub |
-| 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
+| 05 | DevOps Lifecycle & Agile | ✅ Completed  | ⏳ ✅ Completed  | https://www.linkedin.com/feed/update/urn:li:activity:7493902592876400640/| https://medium.com/@sammyagharese1/week-5-summary-scrum-devops-jira-mcp-e828d38e06fe|
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
@@ -164,5 +169,5 @@ If you found this repo useful or want to follow my DevOps journey:
 
 - ⭐ Star this repo
 - 🔗 Connect with me on [LinkedIn](#)
-- 🌐 Learn more about the program: https://dmi.pravinmishra.com
-- 💬 Join the community: https://discord.pravinmishra.com
+- 🌐 Learn more about the program: https://dmi.pravinmishra.com?utm_source=github&utm_medium=readme
+- 💬 Join the community: https://discord.pravinmishra.com?utm_source=github&utm_medium=readme
