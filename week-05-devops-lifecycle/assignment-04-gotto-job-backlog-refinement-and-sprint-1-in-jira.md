@@ -20,7 +20,7 @@ Choose Team Mode or Solo Mode, and document how each Scrum role (Product Owner, 
 
 #### Screenshot 1 — Jira "Create project" screen, or the project sidebar after creation
 
-Add your screenshot here.
+![alt text](<Week 5_Assignment 04_Screenshot 1.png>)
 
 ---
 
@@ -28,7 +28,13 @@ Add your screenshot here.
 
 Write one line for each role: PO (what you prioritized), SM (how you ensured process), Dev Lead (what you built), DevOps Lead (how you shipped).
 
-Write your answer here.
+Product Owner (PO): I prioritized the backlog based on user value and selected the highest-priority UI improvement for Sprint 1.
+
+Scrum Master (SM): I followed the Scrum process by refining the backlog, planning the sprint, tracking progress in Jira, and keeping the work within the required time-box.
+
+Dev Lead: I implemented and tested the selected UI-only improvement to the Gotto Job website.
+
+DevOps Lead: I managed the changes with Git/GitHub and deployed the completed UI update to the EC2 server, verifying that it worked successfully.
 
 ---
 
@@ -42,7 +48,7 @@ Create a Team-managed Scrum project named `Gotto Job – Team <#>` (Team Mode) o
 
 #### Screenshot 2 — Project created page showing the project name and key
 
-Add your screenshot here.
+![alt text](<Week 5_Assignment 04_Screenshot 2.png>)
 
 ---
 
@@ -56,7 +62,7 @@ Create the Epic `Improve Gotto Job UI discoverability & trust` to group the UI i
 
 #### Screenshot 3 — Backlog showing the Epic panel with the Epic visible
 
-Add your screenshot here.
+![alt text](<Week 5_Assignment 04_Screenshot 3.png>)
 
 ---
 
@@ -70,13 +76,13 @@ Create at least six Stories under the Epic, estimate each with 1, 2, or 3 story 
 
 #### Screenshot 4 — Backlog showing the Epic and at least six Stories under it
 
-Add your screenshot here.
+![alt text](<Week 5_Assignment 04_Screenshot 4.1png.png>)
 
 ---
 
 #### Screenshot 5 — One Story opened showing its Story Points and acceptance criteria filled in
 
-Add your screenshot here.
+![alt text](<Week 5_Assignment 04_Screenshot 5.png>)
 
 ---
 
@@ -90,7 +96,7 @@ Confirm the Story Points (1, 2, or 3) for each Story and record brief reasoning 
 
 #### Screenshot 6 — Backlog showing Story Points visible, or two or three Stories opened showing their points
 
-Add your screenshot here.
+![alt text](<Week 5_Assignment 04_Screenshot 6.png>)
 
 ---
 
@@ -98,7 +104,14 @@ Add your screenshot here.
 
 For each story, explain in one or two lines why it is a 1, 2, or 3 (mention any debate, even in Solo Mode).
 
-Write your answer here.
+Improve hero section call-to-action visibility — 3 points: I considered 2 points, but settled on 3 because the change requires reviewing CTA placement, styling, responsiveness, and verifying that it stands out clearly across screen sizes.
+Improve job search button visibility — 2 points: I considered 1 point because it is a focused UI change, but chose 2 since it requires styling adjustments and testing to ensure the button is consistently noticeable and usable.
+Add trust message to the homepage — 2 points: I chose 2 because the text itself is simple, but selecting the right placement and ensuring it integrates cleanly with the existing homepage requires additional effort.
+Improve navigation menu readability — 2 points: I considered 1 point, but chose 2 because changes to typography, spacing, or contrast need to be checked across the entire navigation for consistency and readability.
+Improve job category card spacing — 1 point: I chose 1 because this is a small, low-risk CSS adjustment with minimal implementation and verification required.
+Improve footer text readability — 1 point: I chose 1 because this is a straightforward UI styling change involving limited CSS changes and simple visual verification.
+
+Solo Mode note: I performed the Planning Poker debate myself by considering the complexity, effort, testing requirements, and risk of each Story before confirming the final estimate.
 
 ---
 
@@ -112,13 +125,13 @@ Create Sprint 1, move three or four Stories into it (approximately 3–6 points)
 
 #### Screenshot 7 — Sprint 1 with the selected Stories inside it
 
-Add your screenshot here.
+![alt text](<Week 5_Assignment 04_Screenshot 7.png>)
 
 ---
 
 #### Screenshot 8 — One Story showing the Sub-tasks created
 
-Add your screenshot here.
+![alt text](<Week 5_Assignment 04_Screenshot 8.png>)
 
 ---
 
@@ -132,7 +145,7 @@ Open the Burndown Chart and confirm it exists for Sprint 1. It is acceptable if 
 
 #### Screenshot 9 — Burndown Chart page opened, even if empty
 
-Add your screenshot here.
+![alt text](<Week 5_Assignment 04_Screenshot 9.png>)
 
 ---
 
@@ -146,19 +159,19 @@ Implement one small UI-only Story from Sprint 1, commit it, deploy it live, and 
 
 #### Screenshot 10 — Jira board showing the Story moved to Done
 
-Add your screenshot here.
+![alt text](<Week 5_Assignment 04_Screenshot 11.png>)
 
 ---
 
 #### Screenshot 11 — Git commit output
 
-Add your screenshot here.
+![alt text](<Week 5_Assignment 04_Screenshot 10.png>)
 
 ---
 
 #### Screenshot 12 — Live URL in the browser showing the UI change, with the URL visible
 
-Add your screenshot here.
+![alt text](<Week 5_Assignment 04_Screenshot 12.png>)
 
 ---
 
@@ -172,7 +185,7 @@ Add a retro comment covering what went well, what to improve, one Scrum pillar o
 
 #### Screenshot 13 — Jira retro comment visible
 
-Add your screenshot here.
+![alt text](<Week 5_Assignment 04_Screenshot 13.png>)
 
 ---
 
@@ -188,13 +201,13 @@ Publish a LinkedIn post about what you delivered, including your live URL, three
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://lnkd.in/p/gRu4Jfqw`
 
 ---
 
 #### Screenshot 14 — Published LinkedIn post
 
-Add your screenshot here.
+![alt text](<Week 5_Assignment 04_Screenshot 14.png>)
 
 ---
 
@@ -208,18 +221,18 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1: Team Mode or Solo Mode selected and all four roles documented (Screenshot 1 & Notes)
-- [ ] Task 2: Team-managed Scrum project created with the required name (Screenshot 2)
-- [ ] Task 3: UI improvement Epic created (Screenshot 3)
-- [ ] Task 4: 6–8 Stories added under the Epic and ranked by value (Screenshots 4 & 5)
-- [ ] Task 5: Story Points set (1, 2, or 3) with reasoning recorded (Screenshot 6 & Notes)
-- [ ] Task 6: Sprint 1 created with Sprint Goal, 3–4 Stories, and Sub-tasks (Screenshots 7 & 8)
-- [ ] Task 7: Burndown Chart opened (Screenshot 9)
-- [ ] Task 8: One UI-only increment implemented, committed, deployed, and verified (Screenshots 10–12)
-- [ ] Task 9: Retro comment with one Scrum pillar and one Scrum value (Screenshot 13)
-- [ ] Task 10: Mandatory LinkedIn post published with the live URL, backlog refinement, Sprint planning, one shipped increment, proof, and Screenshot 14
-- [ ] Full Name visible in required screenshots
-- [ ] No sensitive data exposed
+- [x] Task 1: Team Mode or Solo Mode selected and all four roles documented (Screenshot 1 & Notes)
+- [x] Task 2: Team-managed Scrum project created with the required name (Screenshot 2)
+- [x] Task 3: UI improvement Epic created (Screenshot 3)
+- [x] Task 4: 6–8 Stories added under the Epic and ranked by value (Screenshots 4 & 5)
+- [x] Task 5: Story Points set (1, 2, or 3) with reasoning recorded (Screenshot 6 & Notes)
+- [x] Task 6: Sprint 1 created with Sprint Goal, 3–4 Stories, and Sub-tasks (Screenshots 7 & 8)
+- [x] Task 7: Burndown Chart opened (Screenshot 9)
+- [x] Task 8: One UI-only increment implemented, committed, deployed, and verified (Screenshots 10–12)
+- [x] Task 9: Retro comment with one Scrum pillar and one Scrum value (Screenshot 13)
+- [x] Task 10: Mandatory LinkedIn post published with the live URL, backlog refinement, Sprint planning, one shipped increment, proof, and Screenshot 14
+- [x] Full Name visible in required screenshots
+- [x] No sensitive data exposed
 
 ---
 
