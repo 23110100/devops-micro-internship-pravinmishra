@@ -20,7 +20,7 @@ Create an architecture diagram showing the custom VPC (10.0.0.0/16), the six sub
 
 #### Diagram image or link
 
-Add your diagram image or link here.
+![alt text](<Book Review App - Three-Tier Architecture on AWS.png>)
 
 ---
 
@@ -34,13 +34,29 @@ Record the AWS Region used and list every AWS service used across networking, co
 
 **Region:**
 
-Write your answer here.
+US East (Ohio) — us-east-2
+
+The architecture is distributed across:
+
+Availability Zone A: us-east-2a
+Availability Zone B: us-east-2b
+
 
 ---
 
 **Services:**
 
-Write your answer here.
+Networking: Amazon VPC, six subnets across two Availability Zones, Internet Gateway, route tables, and Network ACLs.
+
+Compute: Amazon EC2 for the Web Tier running Nginx + Next.js, and EC2 for the private App Tier running Node.js + Express.
+
+Load Balancing: Elastic Load Balancing using an internet-facing Application Load Balancer (ALB) for the Web Tier and an internal ALB for communication between the Web and App tiers.
+
+Security: Amazon EC2 Security Groups to restrict traffic between the public ALB, Web Tier, internal ALB, App Tier, and database tier.
+
+Database: Amazon RDS for MySQL, configured for Multi-AZ high availability, plus an RDS Read Replica for read scaling.
+
+High Availability / Scaling: EC2 Auto Scaling and Launch Templates can be used for the Web and App tiers if required by the deployment tasks.
 
 ---
 
@@ -56,7 +72,7 @@ Confirm the Book Review App loads through the public ALB DNS name.
 
 Paste your public ALB DNS name here:
 
-`Add your URL here`
+c:\Users\Sammy\OneDrive\Desktop\Week 06\Week 06 Assignment 05_Screenshot 25.png
 
 ---
 
@@ -70,37 +86,39 @@ Capture visual proof of every tier and load balancer.
 
 #### Web EC2
 
-Add your screenshot here.
+![alt text](<Week 06 Assignment 05_Screenshot 26.png>)
 
 ---
 
 #### App EC2
 
-Add your screenshot here.
+![alt text](<Week 06 Assignment 05_Screenshot 26.1png.png>)
 
 ---
 
 #### Public ALB
 
-Add your screenshot here.
+![alt text](<Week 06 Assignment 05_Screenshot 26.2png.png>)
 
 ---
 
 #### Internal ALB
 
-Add your screenshot here.
+![alt text](<Week 06 Assignment 05_Screenshot 26.3png.png>)
 
 ---
 
 #### RDS + Replica
 
-Add your screenshot here.
+![alt text](<Week 06 Assignment 05_Screenshot 26.4png.png>)
 
 ---
 
 #### App UI proof
 
-Add your screenshot here.
+![alt text](<Week 06 Assignment 05_Screenshot 26.5.png>)
+![alt text](<Week 06 Assignment 05_Screenshot 26.6.png>)
+![alt text](<Week 06 Assignment 05_Screenshot 26.7png.png>)
 
 ---
 
@@ -114,19 +132,29 @@ Summarize what worked in the final deployment, the issues encountered and how ea
 
 **What worked:**
 
-Write your answer here.
+The final three-tier Book Review application was successfully deployed in AWS. The Web Tier ran the Next.js frontend on an EC2 instance behind a public Application Load Balancer. The App Tier ran the Node.js/Express backend on a private EC2 instance behind an internal Application Load Balancer. The backend successfully connected to a private Amazon RDS MySQL database and created the required schema and sample data. Both target groups eventually reported their EC2 targets as healthy. The final application was accessible through the public ALB DNS name and successfully displayed book data retrieved through the complete Web → App → Database architecture.
 
 ---
 
 **Issues + fixes:**
 
-Write your answer here.
+Several issues occurred during deployment and testing. The App EC2 target initially showed as unhealthy because the backend was not running on port 3001 and the required App Tier security group was not correctly associated with the instance. The correct security group was attached and the backend application was deployed and configured.
+
+The private App EC2 could not initially access GitHub because its private subnet had no internet route. A public NAT Gateway and Elastic IP were created, and the private subnet route table was updated so the instance could access the internet.
+
+The backend was initially configured to use localhost for MySQL. An Amazon RDS MySQL database was created in the VPC, and the backend .env file was updated with the RDS endpoint, database name, credentials, and port 3306. After Node.js and npm were installed, the backend successfully connected to RDS using SSL and started on port 3001.
+
+Another problem occurred because manually started frontend and backend processes stopped when SSH sessions ended. PM2 was installed on both EC2 instances so the Next.js frontend and Express backend could continue running independently of the SSH sessions.
+
+The public application also returned 502 Bad Gateway because Nginx could not reach the stopped Next.js process. After the frontend was restarted with PM2, Nginx successfully returned HTTP 200.
+
+Finally, the page loaded but displayed “No books available.” The frontend was attempting to use the wrong API routing configuration. Nginx was configured to proxy /api/ requests to the internal ALB, and the frontend's NEXT_PUBLIC_API_URL was changed to /api. The frontend was rebuilt and restarted. After this change, the application successfully displayed the sample books through the complete three-tier architecture.
 
 ---
 
 **Tools/sources used:**
 
-Write your answer here.
+The main tools used for deployment and troubleshooting were the AWS Management Console, EC2 Instance Connect/SSH, Linux command-line utilities, curl, Nginx, Node.js/npm, and PM2. AWS EC2 target-group health checks were used to diagnose communication problems between the load balancers and instances. Commands such as curl, ss, ps, and nginx -t were used to test ports, HTTP responses, running processes, and Nginx configuration. GitHub was used to obtain the Book Review application source code. ChatGPT was also used as a troubleshooting and research aid to interpret AWS configuration issues, HTTP 502 errors, networking problems, RDS connectivity, process-management problems, and API routing issues.
 
 ---
 
@@ -142,13 +170,13 @@ Publish a LinkedIn post sharing the capstone deployment, including the public AL
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+[`Add your URL here`](https://www.linkedin.com/feed/update/urn:li:activity:7498072667107840001/)
 
 ---
 
 #### Screenshot of LinkedIn post
 
-Add your screenshot here.
+![alt text](<Week 06 Assignment 05_Screenshot 26.8png_LinkedIn.png>)
 
 ---
 
@@ -161,14 +189,14 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1: Architecture diagram completed
-- [ ] Task 2: AWS Region and services documented
-- [ ] Task 3: Public ALB DNS confirmed working
-- [ ] Task 4: All six evidence screenshots captured (Web Tier, App Tier, both ALBs, RDS + replica, app UI)
-- [ ] Task 5: Deployment summary completed (what worked, issues/fixes, tools/sources)
-- [ ] LinkedIn post published and URL submitted
-- [ ] App Tier and Database Tier confirmed not publicly accessible
-- [ ] No sensitive data exposed
+- [x] Task 1: Architecture diagram completed
+- [x] Task 2: AWS Region and services documented
+- [x] Task 3: Public ALB DNS confirmed working
+- [x] Task 4: All six evidence screenshots captured (Web Tier, App Tier, both ALBs, RDS + replica, app UI)
+- [x] Task 5: Deployment summary completed (what worked, issues/fixes, tools/sources)
+- [x] LinkedIn post published and URL submitted
+- [x] App Tier and Database Tier confirmed not publicly accessible
+- [x] No sensitive data exposed
 
 ---
 
