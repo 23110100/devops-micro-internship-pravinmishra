@@ -70,9 +70,8 @@ Confirm the Book Review App loads through the public ALB DNS name.
 
 #### Public ALB DNS
 
-Paste your public ALB DNS name here:
-
 c:\Users\Sammy\OneDrive\Desktop\Week 06\Week 06 Assignment 05_Screenshot 25.png
+
 
 ---
 
@@ -170,7 +169,7 @@ Publish a LinkedIn post sharing the capstone deployment, including the public AL
 
 Paste your LinkedIn post URL here:
 
-[`Add your URL here`](https://www.linkedin.com/feed/update/urn:li:activity:7498072667107840001/)
+(https://www.linkedin.com/feed/update/urn:li:activity:7498072667107840001/)
 
 ---
 

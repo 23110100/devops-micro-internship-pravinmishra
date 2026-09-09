@@ -93,8 +93,8 @@ Week 04 → Git & GitHub
 Week 06 → AWS Cloud 
 [![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/) 
 
-<!-- Week 07 → Azure Cloud -->
-<!-- [![Week 07 – Azure](./badges/week-07.svg)](./week-07-azure-cloud/) -->
+Week 07 → Azure Cloud 
+[![Week 07 – Azure](./badges/week-07.svg)](./week-07-azure-cloud/) 
 
 <!-- Week 08 → Terraform -->
 <!-- [![Week 08 – Terraform](./badges/week-08.svg)](./week-08-terraform/) -->
@@ -141,7 +141,7 @@ Week 06 → AWS Cloud
 | 04 | Git & GitHub | ✅ Completed | ✅ Completed  |https://www.linkedin.com/posts/ossa-agharese-01991a233_dmi-devops-micro-internship-with-agentic-share-7485924171345170433-3Mgh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpVsJUBYBjWiWLSBz1ZojH27wf_yizZYUA| https://medium.com/@sammyagharese1/my-2-0-version-a-story-of-growth-and-impact-b3cef647222a?postPublishedType=repub |
 | 05 | DevOps Lifecycle & Agile | ✅ Completed  | ⏳ ✅ Completed  | https://www.linkedin.com/feed/update/urn:li:activity:7493902592876400640/| https://medium.com/@sammyagharese1/week-5-summary-scrum-devops-jira-mcp-e828d38e06fe|
 | 06 | AWS Cloud | ✅ Completed| ✅ Completed| https://www.linkedin.com/feed/update/urn:li:activity:7498072667107840001/| https://medium.com/@sammyagharese1/week-06-from-2-tier-to-3-tier-aws-architecture-and-ai-assisted-cloud-security-4c8e326de00d?postPublishedType=initial |
-| 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
+| 07 | Azure Cloud | ✅ Completed | ✅ Completed | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
 | 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
 | 10 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
