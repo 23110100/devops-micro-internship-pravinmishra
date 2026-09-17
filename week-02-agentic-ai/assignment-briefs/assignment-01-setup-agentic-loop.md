@@ -127,8 +127,8 @@ How many lines of CSS does this project have?
 ```
 
 **Expected Output:**
-- Question 1: Claude lists the files and describes each one, showing it read them first
-- Question 2: Claude runs a command like `wc -l style.css` and reports the exact number
+- Claude lists the files and describes each one, showing it read them first
+- Claude runs a command like `wc -l style.css` and reports the exact number
 
 **Screenshots Required:**
 - Screenshot 4 — Claude's response to the first question, showing it read the files (tool calls visible)
