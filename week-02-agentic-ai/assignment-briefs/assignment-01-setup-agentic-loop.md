@@ -49,7 +49,7 @@ Every DevOps engineer working with agentic AI starts the same way — setting up
 - Node.js and npm installed (`node --version` works)
 - Git installed and configured (Verify using `git --version`)
 - GitHub account
-- VS Code installed (Vrify using `code --version`)
+- VS Code installed (Verify using `code --version`)
 - Claude subscription 
 
 ---
