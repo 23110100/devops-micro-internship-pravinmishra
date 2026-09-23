@@ -172,7 +172,6 @@ Add your screenshot here.
 
 Paste your LinkedIn post URL here:
 
-```text
 Add your URL here...
 
 #### Screenshot 16 — LinkedIn post published with the Git branching workflow summary
