@@ -142,7 +142,7 @@ Week 07 → Azure Cloud
 | 05 | DevOps Lifecycle & Agile | ✅ Completed  | ⏳ ✅ Completed  | https://www.linkedin.com/feed/update/urn:li:activity:7493902592876400640/| https://medium.com/@sammyagharese1/week-5-summary-scrum-devops-jira-mcp-e828d38e06fe|
 | 06 | AWS Cloud | ✅ Completed| ✅ Completed| https://www.linkedin.com/feed/update/urn:li:activity:7498072667107840001/| https://medium.com/@sammyagharese1/week-06-from-2-tier-to-3-tier-aws-architecture-and-ai-assisted-cloud-security-4c8e326de00d?postPublishedType=initial |
 | 07 | Azure Cloud | ✅ Completed | ✅ Completed | — | — |
-| 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
+| 08 | Terraform | ✅ Completed | ✅ Completed|https://www.linkedin.com/feed/update/urn:li:activity:7508366729400602624/| — |
 | 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
 | 10 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
 | 11 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
