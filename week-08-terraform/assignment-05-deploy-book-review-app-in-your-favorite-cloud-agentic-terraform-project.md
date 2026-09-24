@@ -31,7 +31,7 @@ Prepare the Book Review App project and configure the provided Claude Code Agent
 
 Add a screenshot of the project `CLAUDE.md` showing the three-tier architecture, security boundaries, Terraform requirements, and human-approval rules.
 
-![alt text](<Week 08 Assignment 5_Screenshort 1.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 1.png>)
 
 ---
 
@@ -39,7 +39,7 @@ Add a screenshot of the project `CLAUDE.md` showing the three-tier architecture,
 
 Add a screenshot showing the Terraform Engineer subagent configuration.
 
-![alt text](<Week 08 Assignment 5_Screenshort 2.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 2.png>)
 
 ---
 
@@ -47,7 +47,7 @@ Add a screenshot showing the Terraform Engineer subagent configuration.
 
 Add a screenshot showing the Architecture and Security Reviewer subagent configuration.
 
-![alt text](<Week 08 Assignment 5_Screenshort 3.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 3.png>)
 
 ---
 
@@ -55,7 +55,7 @@ Add a screenshot showing the Architecture and Security Reviewer subagent configu
 
 Add a screenshot showing Terraform MCP connected and available.
 
-![alt text](<Week 08 Assignment 5_Screenshort 4.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 4.png>)
 
 ---
 
@@ -63,7 +63,7 @@ Add a screenshot showing Terraform MCP connected and available.
 
 Add a screenshot showing the configured Claude Code validation hooks.
 
-![alt text](<Week 08 Assignment 5_Screenshort 5.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 5.png>)
 
 ---
 
@@ -106,7 +106,7 @@ Create the modular Terraform project and implement the network and security laye
 
 Add a screenshot showing the modular Terraform project structure.
 
-![alt text](<Week 08 Assignment 5_Screenshort 6.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 6.png>)
 
 ---
 
@@ -114,7 +114,7 @@ Add a screenshot showing the modular Terraform project structure.
 
 Add a screenshot showing the six-subnet architecture across two availability locations.
 
-![alt text](<Week 08 Assignment 5_Screenshort 7.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 7.png>)
 
 ---
 
@@ -122,7 +122,7 @@ Add a screenshot showing the six-subnet architecture across two availability loc
 
 Add a screenshot showing the public and private tier separation, including routing and security boundaries.
 
-![alt text](<Week 08 Assignment 5_Screenshort 8.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 8.png>)
 
 ---
 
@@ -138,7 +138,7 @@ Deploy the public and internal load balancers and the Web and Application comput
 
 Add a screenshot showing the Web and Application compute resources in their required subnets.
 
-![alt text](<Week 08 Assignment 5_Screenshort 9.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 9.png>)
 
 ---
 
@@ -146,7 +146,7 @@ Add a screenshot showing the Web and Application compute resources in their requ
 
 Add a screenshot showing the internet-facing public load balancer.
 
-![alt text](<Week 08 Assignment 5_Screenshort 10.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 10.png>)
 
 ---
 
@@ -154,7 +154,7 @@ Add a screenshot showing the internet-facing public load balancer.
 
 Add a screenshot showing the private internal load balancer.
 
-![alt text](<Week 08 Assignment 5_Screenshort 11.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 11.png>)
 
 ---
 
@@ -162,8 +162,8 @@ Add a screenshot showing the private internal load balancer.
 
 Add a screenshot showing healthy target groups or backend pools.
 
-![alt text](<Week 08 Assignment 5_Screenshort 12.1png.png>)
-![alt text](<Week 08 Assignment 5_Screenshort 12.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 12.1png.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 12.png>)
 
 ---
 
@@ -179,7 +179,7 @@ Deploy a private, highly available managed MySQL database with a read replica an
 
 Add a screenshot showing the managed MySQL database deployment.
 
-![alt text](<Week 08 Assignment 5_Screenshort 13.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 13.png>)
 
 ---
 
@@ -187,7 +187,7 @@ Add a screenshot showing the managed MySQL database deployment.
 
 Add a screenshot showing the Multi-AZ or high-availability configuration.
 
-![alt text](<Week 08 Assignment 5_Screenshort 14.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 14.png>)
 
 ---
 
@@ -195,7 +195,7 @@ Add a screenshot showing the Multi-AZ or high-availability configuration.
 
 Add a screenshot showing the read replica configuration.
 
-![alt text](<Week 08 Assignment 5_Screenshort 15.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 15.png>)
 
 ---
 
@@ -203,7 +203,7 @@ Add a screenshot showing the read replica configuration.
 
 Add a screenshot showing that the database is private and accepts MySQL traffic only from the Application Tier.
 
-![alt text](<Week 08 Assignment 5_Screenshort 16.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 16.png>)
 
 ---
 
@@ -219,7 +219,7 @@ Validate the Terraform configuration, review the execution plan using both Agent
 
 Add a screenshot showing successful `terraform validate` output.
 
-![alt text](<Week 08 Assignment 5_Screenshort 17.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 17.png>)
 
 ---
 
@@ -227,7 +227,7 @@ Add a screenshot showing successful `terraform validate` output.
 
 Add a screenshot showing the Terraform plan output.
 
-![alt text](<Week 08 Assignment 5_Screenshort 18.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 18.png>)
 
 ---
 
@@ -235,7 +235,7 @@ Add a screenshot showing the Terraform plan output.
 
 Add a screenshot showing successful `terraform apply` completion.
 
-![alt text](<Week 08 Assignment 5_Screenshort 19.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 19.png>)
 
 ---
 
@@ -251,7 +251,7 @@ Deploy and configure the Book Review App across the Web, Application, and Databa
 
 Add a screenshot showing the Book Review App homepage through the public endpoint.
 
-![alt text](<Week 08 Assignment 5_Screenshort 20.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 20.png>)
 
 ---
 
@@ -259,7 +259,7 @@ Add a screenshot showing the Book Review App homepage through the public endpoin
 
 Add a screenshot showing successful login or authentication.
 
-![alt text](<Week 08 Assignment 5_Screenshort 21.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 21.png>)
 
 ---
 
@@ -267,7 +267,7 @@ Add a screenshot showing successful login or authentication.
 
 Add a screenshot showing the book listing or book details.
 
-![alt text](<Week 08 Assignment 5_Screenshort 22.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 22.png>)
 
 ---
 
@@ -275,7 +275,7 @@ Add a screenshot showing the book listing or book details.
 
 Add a screenshot showing the review functionality working successfully.
 
-![alt text](<Week 08 Assignment 5_Screenshort 23.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 23.png>)
 
 ---
 
@@ -283,7 +283,7 @@ Add a screenshot showing the review functionality working successfully.
 
 Add a screenshot showing that the backend or API is working successfully.
 
-![alt text](<Week 08 Assignment 5_Screenshort 24.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 24.png>)
 
 ---
 
@@ -291,7 +291,7 @@ Add a screenshot showing that the backend or API is working successfully.
 
 Add a screenshot showing successful database reads and writes.
 
-![alt text](<Week 08 Assignment 5_Screenshort 25.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 25.png>)
 
 ## Public Application URL
 
@@ -313,7 +313,7 @@ You do not need to submit your complete Claude Code conversation history. Includ
 
 Add a screenshot showing one useful example of AI-assisted Terraform generation or improvement.
 
-![alt text](<Week 08 Assignment 5_Screenshort 26.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 26.png>)
 
 ---
 
@@ -321,7 +321,7 @@ Add a screenshot showing one useful example of AI-assisted Terraform generation 
 
 Add a screenshot showing one structured architecture or security review result.
 
-![alt text](<Week 08 Assignment 5_Screenshort 27.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 27.png>)
 
 ---
 
@@ -329,7 +329,7 @@ Add a screenshot showing one structured architecture or security review result.
 
 Add a screenshot showing one AI-assisted troubleshooting interaction based on collected evidence.
 
-![alt text](<Week 08 Assignment 5_Screenshort 28.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 28.png>)
 
 ---
 
@@ -356,7 +356,7 @@ Confirm that the final review covers:
 
 Use Screenshot 27 as the focused evidence for the structured architecture or security review.
 
-![alt text](<Week 08 Assignment 5_Screenshort 27-1.png>)
+![alt text](<screenshots/Week 08 Assignment 5_Screenshort 27-1.png>)
 
 ## Final Architecture Review Summary
 

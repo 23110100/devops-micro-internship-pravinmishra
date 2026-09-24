@@ -24,7 +24,7 @@ Prepare your local environment by installing Terraform, AWS CLI, and the HashiCo
 
 Add a screenshot of the terminal showing successful `terraform version` output.
 
-![alt text](<Week 08 Assignment 4_Screenshort 1.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 1.png>)
 
 ---
 
@@ -32,7 +32,7 @@ Add a screenshot of the terminal showing successful `terraform version` output.
 
 Add a screenshot of the terminal showing successful `aws --version` output.
 
-![alt text](<Week 08 Assignment 4_Screenshort 2.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 2.png>)
 
 ---
 
@@ -40,7 +40,7 @@ Add a screenshot of the terminal showing successful `aws --version` output.
 
 Add a screenshot of VS Code showing the HashiCorp Terraform extension installed and enabled.
 
-![alt text](<Week 08 Assignment 4_Screenshort 3.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 3.png>)
 
 ---
 
@@ -80,7 +80,7 @@ terraform-aws-epicbook/
 
 Add a screenshot of the VS Code Explorer showing the complete root project and the `network`, `ec2`, and `rds` module directory structure.
 
-![alt text](<Week 08 Assignment 4_Screenshort 4-1.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 4-1.png>)
 
 ---
 
@@ -109,7 +109,7 @@ The network module must include:
 
 Add a screenshot of VS Code showing the VPC, public subnet, and two private database subnet configurations.
 
-![alt text](<Week 08 Assignment 4_Screenshort 5.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 5.png>)
 
 ---
 
@@ -117,7 +117,7 @@ Add a screenshot of VS Code showing the VPC, public subnet, and two private data
 
 Add a screenshot of VS Code showing the Internet Gateway, public route table, and route table association.
 
-![alt text](<Week 08 Assignment 4_Screenshort 6.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 6.png>)
 
 ---
 
@@ -125,7 +125,7 @@ Add a screenshot of VS Code showing the Internet Gateway, public route table, an
 
 Add a screenshot of VS Code showing the EC2 and RDS Security Groups, including MySQL access from the EC2 Security Group only.
 
-![alt text](<Week 08 Assignment 4_Screenshort 7-1.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 7-1.png>)
 
 ---
 
@@ -133,7 +133,7 @@ Add a screenshot of VS Code showing the EC2 and RDS Security Groups, including M
 
 Add a screenshot of VS Code showing the network module outputs.
 
-![alt text](<Week 08 Assignment 4_Screenshort 8.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 8.png>)
 
 ---
 
@@ -161,7 +161,7 @@ The `user_data.sh` script must install the required software without storing dat
 
 Add a screenshot of VS Code showing the EC2 resource and `user_data` configuration.
 
-![alt text](<Week 08 Assignment 4_Screenshort 9.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 9.png>)
 
 ---
 
@@ -171,7 +171,7 @@ Add a screenshot of VS Code showing `user_data.sh`.
 
 Ensure that no credentials, passwords, private keys, access tokens, or application secrets are visible.
 
-![alt text](<Week 08 Assignment 4_Screenshort 10.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 10.png>)
 
 ---
 
@@ -179,8 +179,8 @@ Ensure that no credentials, passwords, private keys, access tokens, or applicati
 
 Add a screenshot of VS Code showing the EC2 module variables and outputs.
 
-![alt text](<Week 08 Assignment 4_Screenshort 11.png>)
-![alt text](<Week 08 Assignment 4_Screenshort 11.1png.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 11.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 11.1png.png>)
 
 ---
 
@@ -206,7 +206,7 @@ The RDS module must include:
 
 Add a screenshot of VS Code showing the DB subnet group and RDS MySQL configuration.
 
-![alt text](<Week 08 Assignment 4_Screenshort 12.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 12.png>)
 
 ---
 
@@ -216,8 +216,8 @@ Add a screenshot of VS Code showing `publicly_accessible = false`, the RDS Secur
 
 Ensure that the database password and other sensitive values are hidden.
 
-![alt text](<Week 08 Assignment 4_Screenshort 13.png>)
-![alt text](<Week 08 Assignment 4_Screenshort 13.1.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 13.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 13.1.png>)
 
 ---
 
@@ -225,7 +225,7 @@ Ensure that the database password and other sensitive values are hidden.
 
 Add a screenshot of VS Code showing the RDS endpoint output.
 
-![alt text](<Week 08 Assignment 4_Screenshort 14.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 14.png>)
 
 ---
 
@@ -241,7 +241,7 @@ Use the root Terraform configuration to call the Network, EC2, and RDS modules a
 
 Add a screenshot of VS Code showing the root `main.tf` with the Network, EC2, and RDS module blocks.
 
-![alt text](<Week 08 Assignment 4_Screenshort 15.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 15.png>)
 
 ---
 
@@ -249,7 +249,7 @@ Add a screenshot of VS Code showing the root `main.tf` with the Network, EC2, an
 
 Add a screenshot of VS Code showing values passed from the Network module to the EC2 and RDS modules.
 
-![alt text](<Week 08 Assignment 4_Screenshort 16.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 16.png>)
 
 ---
 
@@ -257,7 +257,7 @@ Add a screenshot of VS Code showing values passed from the Network module to the
 
 Add a screenshot of VS Code showing the root EC2 public IP and RDS endpoint outputs.
 
-![alt text](<Week 08 Assignment 4_Screenshort 17.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 17.png>)
 
 ---
 
@@ -273,7 +273,7 @@ Initialize the modular Terraform project, validate the configuration, review the
 
 Add a screenshot of the terminal showing successful `terraform init` output.
 
-![alt text](<Week 08 Assignment 4_Screenshort 18.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 18.png>)
 
 ---
 
@@ -281,7 +281,7 @@ Add a screenshot of the terminal showing successful `terraform init` output.
 
 Add a screenshot of the terminal showing successful `terraform validate` output.
 
-![alt text](<Week 08 Assignment 4_Screenshort 19.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 19.png>)
 
 ---
 
@@ -289,7 +289,7 @@ Add a screenshot of the terminal showing successful `terraform validate` output.
 
 Add a screenshot showing the Terraform plan summary and proposed resources.
 
-![alt text](<Week 08 Assignment 4_Screenshort 20.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 20.png>)
 
 ---
 
@@ -297,7 +297,7 @@ Add a screenshot showing the Terraform plan summary and proposed resources.
 
 Add a screenshot showing successful `terraform apply` completion.
 
-![alt text](<Week 08 Assignment 4_Screenshort 21.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 21.png>)
 
 ---
 
@@ -305,7 +305,7 @@ Add a screenshot showing successful `terraform apply` completion.
 
 Add a screenshot showing the EC2 public IP and RDS endpoint returned by `terraform output`.
 
-![alt text](<Week 08 Assignment 4_Screenshort 21-1.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 21-1.png>)
 
 ---
 
@@ -321,7 +321,7 @@ Verify that the EC2 and RDS resources were successfully provisioned and confirm 
 
 Add a screenshot of AWS CLI showing the EC2 instance running.
 
-![alt text](<Week 08 Assignment 4_Screenshort 23.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 23.png>)
 
 ---
 
@@ -329,7 +329,7 @@ Add a screenshot of AWS CLI showing the EC2 instance running.
 
 Add a screenshot of AWS CLI showing that RDS is available and not publicly accessible.
 
-![alt text](<Week 08 Assignment 4_Screenshort 24.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 24.png>)
 
 ---
 
@@ -337,7 +337,7 @@ Add a screenshot of AWS CLI showing that RDS is available and not publicly acces
 
 Add a screenshot of the EC2 terminal showing the required software version checks and the active Nginx service.
 
-![alt text](<Week 08 Assignment 4_Screenshort 25.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 25.png>)
 
 ---
 
@@ -355,7 +355,7 @@ Add a screenshot of the terminal showing a successful connection from EC2 to Ama
 
 Ensure that the database password is not visible.
 
-![alt text](<Week 08 Assignment 4_Screenshort 26.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 26.png>)
 
 ---
 
@@ -363,7 +363,7 @@ Ensure that the database password is not visible.
 
 Add a screenshot of the terminal showing the EpicBook tables and imported data.
 
-![alt text](<Week 08 Assignment 4_Screenshort 27.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 27.png>)
 
 ---
 
@@ -379,7 +379,7 @@ Install EpicBook dependencies, configure the application to use Amazon RDS, conf
 
 Add a screenshot of the terminal showing successful dependency installation and the `node_modules` directory.
 
-![alt text](<Week 08 Assignment 4_Screenshort 28.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 28.png>)
 
 ---
 
@@ -387,7 +387,7 @@ Add a screenshot of the terminal showing successful dependency installation and 
 
 Add a screenshot of the terminal showing a successful Nginx configuration test and active service status.
 
-![alt text](<Week 08 Assignment 4_Screenshort 29.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 29.png>)
 
 ---
 
@@ -395,7 +395,7 @@ Add a screenshot of the terminal showing a successful Nginx configuration test a
 
 Add a screenshot of the terminal showing EpicBook running or listening on port `8080`.
 
-![alt text](<Week 08 Assignment 4_Screenshort 30.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 30.png>)
 
 ---
 
@@ -415,7 +415,7 @@ Verify that EpicBook, EC2, Nginx, and Amazon RDS work together successfully.
 
 Add a screenshot of the browser showing EpicBook using the EC2 public IP.
 
-![alt text](<Week 08 Assignment 4_Screenshort 31.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 31.png>)
 
 ---
 
@@ -423,7 +423,7 @@ Add a screenshot of the browser showing EpicBook using the EC2 public IP.
 
 Add a screenshot of the browser showing a successful cart or checkout action.
 
-![alt text](<Week 08 Assignment 4_Screenshort 32.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 32.png>)
 
 ---
 
@@ -433,7 +433,7 @@ Add a screenshot of the terminal showing the corresponding RDS database record c
 
 Ensure that database credentials and other sensitive values are not visible.
 
-![alt text](<Week 08 Assignment 4_Screenshort 33.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 33.png>)
 
 ---
 
@@ -449,7 +449,7 @@ Remove all AWS resources created by the modular Terraform configuration.
 
 Add a screenshot of the terminal showing successful `terraform destroy` completion.
 
-![alt text](<Week 08 Assignment 4_Screenshort 34.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 34.png>)
 
 ---
 
@@ -467,7 +467,7 @@ Write the post in your own words and include at least one deployment screenshot 
 
 Add a screenshot of the published LinkedIn post showing the post and at least one deployment image or other proof.
 
-![alt text](<Week 08 Assignment 4_Screenshort 35.png>)
+![alt text](<screenshots/Week 08 Assignment 4_Screenshort 35.png>)
 
 ## LinkedIn Post URL
 

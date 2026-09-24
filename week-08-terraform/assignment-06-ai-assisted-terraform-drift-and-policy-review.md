@@ -40,7 +40,7 @@ Confirm that your Terraform configuration and deployed infrastructure are curren
 
 Add a screenshot of `terraform plan` showing no pending changes.
 
-![alt text](<Week 08 Assignment 6_Screenshort 1.png>)
+![alt text](<screenshots/Week 08 Assignment 6_Screenshort 1.png>)
 
 ---
 
@@ -48,7 +48,7 @@ Add a screenshot of `terraform plan` showing no pending changes.
 
 Add a screenshot of the folder structure showing `AI Assignment/`, `reports/`, and the Terraform project.
 
-![alt text](<Week 08 Assignment 6_Screenshort 2.png>)
+![alt text](<screenshots/Week 08 Assignment 6_Screenshort 2.png>)
 
 ## Questions
 
@@ -76,7 +76,7 @@ Provide Claude Code with clear project context, evidence requirements, and safet
 
 Add a screenshot of `CLAUDE.md` open in VS Code showing the Project Overview, Review Workflow, Safety Rules, and Output Rules.
 
-![alt text](<Week 08 Assignment 6_Screenshort 3.png>)
+![alt text](<screenshots/Week 08 Assignment 6_Screenshort 3.png>)
 
 ## Questions
 
@@ -106,7 +106,7 @@ Create a Bash script that gathers Terraform plan evidence and checks it for dest
 
 Add a screenshot of the top section of `tf-drift-check.sh` showing the variables and `checks` array.
 
-![alt text](<Week 08 Assignment 6_Screenshort 4.png>)
+![alt text](<screenshots/Week 08 Assignment 6_Screenshort 4.png>)
 
 ---
 
@@ -114,7 +114,7 @@ Add a screenshot of the top section of `tf-drift-check.sh` showing the variables
 
 Add a screenshot showing `check_destructive_actions` and `check_open_ingress`, including the `jq` checks.
 
-![alt text](<Week 08 Assignment 6_Screenshort 5.png>)
+![alt text](<screenshots/Week 08 Assignment 6_Screenshort 5.png>)
 
 ---
 
@@ -122,7 +122,7 @@ Add a screenshot showing `check_destructive_actions` and `check_open_ingress`, i
 
 Add a screenshot showing successful `bash -n` and `ls -l` output.
 
-![alt text](<Week 08 Assignment 6_Screenshort 6.png>)
+![alt text](<screenshots/Week 08 Assignment 6_Screenshort 6.png>)
 
 ## Questions
 
@@ -160,7 +160,7 @@ Verify that the review workflow reports a healthy result against your clean Terr
 
 Add a screenshot of the drift script output showing your full name and a `HEALTHY` result.
 
-![alt text](<Week 08 Assignment 6_Screenshort 7.png>)
+![alt text](<screenshots/Week 08 Assignment 6_Screenshort 7.png>)
 
 ---
 
@@ -168,7 +168,7 @@ Add a screenshot of the drift script output showing your full name and a `HEALTH
 
 Add a screenshot showing the captured script exit code `0`.
 
-![alt text](<Week 08 Assignment 6_Screenshort 8.png>)
+![alt text](<screenshots/Week 08 Assignment 6_Screenshort 8.png>)
 
 ## Questions
 
@@ -198,7 +198,7 @@ Turn the Bash evidence-gathering workflow into a reusable Agentic AI review proc
 
 Add a screenshot of `SKILL.md` showing the frontmatter, allowed tools, and safety rules.
 
-![alt text](<Week 08 Assignment 6_Screenshort 9.png>)
+![alt text](<screenshots/Week 08 Assignment 6_Screenshort 9.png>)
 
 ---
 
@@ -206,7 +206,7 @@ Add a screenshot of `SKILL.md` showing the frontmatter, allowed tools, and safet
 
 Add a screenshot of `/tf-drift-review` showing the clean `HEALTHY` result.
 
-![alt text](<Week 08 Assignment 6_Screenshort 10.png>)
+![alt text](<screenshots/Week 08 Assignment 6_Screenshort 10.png>)
 
 ## Questions
 
@@ -244,7 +244,7 @@ Create a safe, intentional difference and confirm that Terraform and Claude dete
 
 Add a screenshot of the controlled change you introduced, with sensitive details hidden.
 
-![alt text](<Week 08 Assignment 6_Screenshort 11.png>)
+![alt text](<screenshots/Week 08 Assignment 6_Screenshort 11.png>)
 
 ---
 
@@ -252,7 +252,7 @@ Add a screenshot of the controlled change you introduced, with sensitive details
 
 Add a screenshot of `/tf-drift-review` showing the detected difference and risk assessment.
 
-![alt text](<Week 08 Assignment 6_Screenshort 12.png>)
+![alt text](<screenshots/Week 08 Assignment 6_Screenshort 12.png>)
 
 ---
 
@@ -260,7 +260,7 @@ Add a screenshot of `/tf-drift-review` showing the detected difference and risk 
 
 Add a screenshot of `drift-detected-report.txt` showing your full name and the `WARN` or `FAIL` result.
 
-![alt text](<Week 08 Assignment 6_Screenshort 13.png>)
+![alt text](<screenshots/Week 08 Assignment 6_Screenshort 13.png>)
 
 ## Questions
 
@@ -305,7 +305,7 @@ Overall Status: FAIL
 
 Add a screenshot of `.claude/settings.json` showing the `PreToolUse` safety hook.
 
-![alt text](<Week 08 Assignment 6_Screenshort 14.png>)
+![alt text](<screenshots/Week 08 Assignment 6_Screenshort 14.png>)
 
 ---
 
@@ -313,7 +313,7 @@ Add a screenshot of `.claude/settings.json` showing the `PreToolUse` safety hook
 
 Add a screenshot of Claude Code showing the blocked `terraform apply` attempt.
 
-![alt text](<Week 08 Assignment 6_Screenshort 15.png>)
+![alt text](<screenshots/Week 08 Assignment 6_Screenshort 15.png>)
 
 ## Questions
 
@@ -351,7 +351,7 @@ Resolve the detected difference intentionally, verify the infrastructure returns
 
 Add a screenshot of the human-reviewed resolution or `terraform apply` output where applicable.
 
-![alt text](<Week 08 Assignment 6_Screenshort 16.png>)
+![alt text](<screenshots/Week 08 Assignment 6_Screenshort 16.png>)
 
 ---
 
@@ -359,7 +359,7 @@ Add a screenshot of the human-reviewed resolution or `terraform apply` output wh
 
 Add a screenshot of the final `/tf-drift-review` showing `HEALTHY`.
 
-![alt text](<Week 08 Assignment 6_Screenshort 17.png>)
+![alt text](<screenshots/Week 08 Assignment 6_Screenshort 17.png>)
 
 ---
 
@@ -370,7 +370,7 @@ Add a screenshot of `ls -lah reports` showing both:
 - `drift-detected-report.txt`
 - `resolved-report.txt`
 
-![alt text](<Week 08 Assignment 6_Screenshort 18.png>)
+![alt text](<screenshots/Week 08 Assignment 6_Screenshort 18.png>)
 
 ---
 
@@ -378,7 +378,7 @@ Add a screenshot of `ls -lah reports` showing both:
 
 Add a screenshot of `drift-review-summary.md` showing all required sections and your full name.
 
-![alt text](<Week 08 Assignment 6_Screenshort 19.png>)
+![alt text](<screenshots/Week 08 Assignment 6_Screenshort 19.png>)
 
 ## Terraform Drift Review Summary
 
@@ -503,7 +503,7 @@ https://www.linkedin.com/feed/update/urn:li:share:7508571871202742272/
 
 ### Published LinkedIn Post Screenshot — Mandatory
 
-![alt text](<Week 08 Assignment 6_Screenshort 20.png>)
+![alt text](<screenshots/Week 08 Assignment 6_Screenshort 20.png>)
 
 ---
 
